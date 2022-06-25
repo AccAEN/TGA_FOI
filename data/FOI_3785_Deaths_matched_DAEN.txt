@@ -1,0 +1,922 @@
+ID	Date	Age from DAEN	Age from FOI 3785	Sex	Drug	MedDRA reaction terms
+670258	23/11/2021	12	12	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness, Dyspnoea, Headache, Malaise, Myalgia, Oropharyngeal pain, Pallor, Palpitations, Pharyngeal swelling, Presyncope, Pyrexia, Tachycardia
+647663	20/10/2021	14	14	Female	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Brain herniation, Brain injury, Cardiac arrest, Dizziness, Headache, Multiple organ dysfunction syndrome, Nausea, Pyrexia
+695048	15/01/2022	15	15	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation, Head banging
+616124	2/09/2021	17	17	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache, Malaise, Myocarditis
+627336	No match		17			
+624484	No match		18			
+651140	27/10/2021	18	18	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac disorder, Headache, Pain in extremity, Respiratory disorder
+631625	25/09/2021	19	19	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Blood fibrinogen increased, Brain hypoxia, Cardiac arrest, Haemoglobin decreased, Red blood cell count decreased
+644353	15/10/2021	20	20	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Palpitations
+644148	14/10/2021	21	21	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Bexsero AUST R 190719 (Neisseria meningitidis Group B Factor H Binding Protein fusion protein; Neisseria meningitidis Group B Neisseria Adhesin A protein; Neisseria meningitidis Group B Neisseria Heparin Binding Antigen fusion protein; Neisseria meningitidis serogroup B outer membrane vesicles) - Not suspected	Cardiac arrest, Concomitant disease aggravated, Malaise, Pulmonary hypertension, Pyrexia
+685337	21/12/2021	23	23	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiomegaly, Malaise, Personality change
+688525	30/12/2021	-	25	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Injection site reaction
+598795	6/08/2021	29	29	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated
+666320	17/11/2021	29	29	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery thrombosis
+642977	13/10/2021	30	30	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pulmonary embolism
+571893	21/06/2021	32	32	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Pulmonary embolism
+630369	23/09/2021	32	32	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain, Feeling hot, Pleuritic pain
+676189	2/12/2021	33	33	Male	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Road traffic accident, Syncope
+692067	10/01/2022	33	33	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Premature labour, Stillbirth
+595824	1/08/2021	34	34	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral venous sinus thrombosis, Coma scale abnormal, Fibrin D dimer increased, Haemorrhagic transformation stroke, Headache, Intracranial pressure increased, Neck pain, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome
+599059	No match		34			
+647488	20/10/2021	-	34	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+686967	23/12/2021	-	34	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+666360	17/11/2021	35	35	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Trade name not specified (amisulpride) - Not suspected	Adverse event following immunisation, Myocarditis
+687085	23/12/2021	-	35	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+688521	30/12/2021	-	35	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+640331	No match		36			
+688523	30/12/2021	-	36	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain
+571009	18/06/2021	37	37	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abortion spontaneous
+652583	No match		37			
+669765	23/11/2021	37	37	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Coronary artery disease
+672577	No match		37			
+642560	13/10/2021	38	38	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fatigue, Stillbirth
+663471	12/11/2021	39	39	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Carotid artery dissection, Cerebrovascular accident, Haemorrhage intracranial, Migraine, Neck pain, Sensory disturbance, Vasculitis, Visual impairment
+537472	14/04/2021	40	40	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Lexapro (escitalopram) - Not suspected, Valium (diazepam) - Not suspected, Zypine (olanzapine) - Not suspected, Zyprexa Zydis (olanzapine) - Not suspected	Decreased appetite, Ischaemic cardiomyopathy, Night sweats, Pyrexia, Urinary incontinence
+538825	16/04/2021	40	40	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain, Cardiac arrest, Dyspnoea, Pulmonary embolism, Sepsis, Vomiting
+648929	No match		40			
+555157	No match		41			
+613025	29/08/2021	-	41	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intestinal ischaemia
+617068	3/09/2021	41	41	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest
+592806	27/07/2021	42	42	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression, Cough, Dyspnoea
+635916	1/10/2021	42	42	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Chills, Decreased appetite, Hot flush, Nausea
+660802	8/11/2021	42	42	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Pulmicort (budesonide) - Not suspected	Cardiac arrest, Chest pain, Dizziness, Fatigue, Paraesthesia
+688526	30/12/2021	-	42	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+615803	1/09/2021	42	43	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache
+560741	31/05/2021	43	43	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+587237	16/07/2021	43	43	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+587277	No match		43			
+651374	27/10/2021	43	43	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atypical pneumonia, Cardiac arrest, Chest pain, Dyspnoea, Fibrin D dimer increased, Liver function test abnormal, Pyrexia
+666513	17/11/2021	-	43	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction
+586554	15/07/2021	44	44	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased, Haemorrhage intracranial, Hepatic infarction, Intestinal infarction, Pulmonary embolism, Splenic infarction, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome
+590964	No match		44			
+610431	25/08/2021	44	44	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache, Injection site pain, Lethargy, Myocardial ischaemia, Nasopharyngitis
+613371	30/08/2021	44	44	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest
+644735	15/10/2021	44	44	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Dyspnoea, Fibrin D dimer increased, Pulmonary embolism, Pyrexia, Thrombocytopenia, Thrombosis
+687834	27/12/2021	44	44	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Blood lactic acid, C-reactive protein increased, Influenza like illness, Myocarditis, Parvovirus B19 test positive, Pyrexia, Syncope, Thrombocytopenia, Troponin I, Ventricular fibrillation, pH body fluid
+555334	19/05/2021	45	45	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+605823	18/08/2021	45	45	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Influvac Tetra (Influenza virus haemagglutinin) - Not suspected	Cerebrovascular accident, Vertebral artery dissection
+611057	26/08/2021	45	45	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis coronary artery, Myocardial fibrosis
+640350	8/10/2021	45	45	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident, Chest pain, Dyspnoea, Headache, Subarachnoid haemorrhage
+652222	28/10/2021	45	45	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort, Electrocardiogram, Malaise, Myocardial infarction, Pulmonary embolism
+571916	21/06/2021	46	46	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+605110	No match		46			
+631624	25/09/2021	46	46	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute pulmonary oedema, Atrial fibrillation, Cardiogenic shock, Fibrin D dimer increased, Hyponatraemia, Joint swelling, Liver function test abnormal, Lung abscess, Multiple organ dysfunction syndrome, Orthopnoea, Pleural effusion, Productive cough, Sepsis, Tachycardia
+537212	14/04/2021	48	48	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Antiphospholipid syndrome, Embolism, Fibrin D dimer increased, Multiple organ dysfunction syndrome, Pulmonary embolism, Renal ischaemia, Thrombocytopenia, Thrombosis, Thrombosis with thrombocytopenia syndrome, Visceral venous thrombosis
+582343	No match		48			
+585318	13/07/2021	48	48	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage, Cerebral venous sinus thrombosis, Fibrin D dimer increased, Headache, Herpes zoster, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome
+618154	No match		48			
+620700	9/09/2021	48	48	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased, Immune thrombocytopenia, Pulmonary embolism, SARS-CoV-2 test positive
+638636	6/10/2021	48	48	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain upper, Aneurysm ruptured, Seizure
+686483	22/12/2021	48	48	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression, Dyspnoea, Hallucination
+690141	No match		48			
+584829	13/07/2021	49	49	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation, Myalgia, Presyncope
+611939	27/08/2021	49	49	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+621242	No match		49			
+662238	10/11/2021	49	49	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated, Pneumonia, Respiratory failure
+703118	31/01/2022	49	49	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation, Brain oedema, Cerebrovascular accident
+546170	30/04/2021	50	50	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Malaise, Pulmonary embolism
+575852	26/06/2021	50	50	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Cerebral infarction, Fibrin D dimer increased, Pain in extremity, Platelet count decreased, Pulmonary embolism
+592902	No match		50			
+595770	1/08/2021	50	50	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Headache, Hypoxic-ischaemic encephalopathy, Immune-mediated encephalitis, Pneumonia aspiration, Seizure, Vomiting
+597267	3/08/2021	50	50	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Syncope, Thrombocytopenia
+598785	6/08/2021	50	50	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+615875	1/09/2021	-	50	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocarditis
+625386	16/09/2021	50	50	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain, Myocardial infarction, Myoclonus, Ventricular tachycardia
+637921	5/10/2021	50	50	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated, Respiratory acidosis
+586732	15/07/2021	51	51	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Nasopharyngitis
+624541	15/09/2021	51	51	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Fosamax Plus D-Cal (alendronate sodium; calcium carbonate; colecalciferol) - Not suspected, Mogadon (nitrazepam) - Not suspected, Stilnox (zolpidem tartrate) - Not suspected, Thiamine (thiamine hydrochloride) - Not suspected	Adverse event following immunisation
+666439	17/11/2021	51	52	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Diarrhoea, Pneumonia, SARS-CoV-2 antibody test positive
+558636	26/05/2021	52	52	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Influenza Vaccine (TNS) (Influenza virus haemagglutinin) - Suspected	Adverse event following immunisation
+565804	9/06/2021	52	52	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage, Cerebral venous sinus thrombosis, Fibrin D dimer increased, Headache, Platelet count decreased, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome
+568399	No match		52			
+582342	No match		52			
+598851	6/08/2021	52	52	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain, Cough, Dyspnoea, Groin pain, Malaise, Myocardial infarction, Myocarditis
+627368	No match		52			
+632351	27/09/2021	52	52	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Subarachnoid haemorrhage, Troponin I increased
+673150	29/11/2021	52	52	Male	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Myocardial ischaemia
+626171	17/09/2021	53	53	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhage intracranial
+654681	2/11/2021	53	53	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery, Dyspnoea, Malaise, Myocardial ischaemia
+666237	17/11/2021	53	53	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Pericardial effusion, Troponin abnormal
+682371	15/12/2021	53	53	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+692010	10/01/2022	53	53	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiomegaly, Chest discomfort, Chest pain, Dyspnoea, Pulmonary embolism
+565088	8/06/2021	54	54	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Mesenteric vein thrombosis
+565173	8/06/2021	54	54	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident, Chest pain, Vomiting
+615012	No match		54			
+615211	1/09/2021	54	54	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral artery thrombosis, Cerebral infarction, Fibrin D dimer increased, Headache, Hyperhidrosis, Myalgia, Pyrexia, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome, Troponin I increased
+648930	22/10/2021	54	54	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intracranial aneurysm, Subarachnoid haemorrhage
+648942	22/10/2021	54	54	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Amnesia, Cerebrovascular accident, Dysarthria, Inappropriate schedule of product administration, Myocardial fibrosis, Tremor, Vaccination error
+653923	1/11/2021	54	54	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+654668	2/11/2021	54	54	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Cardiac failure congestive, Hypertensive heart disease
+665298	16/11/2021	54	54	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiogenic shock, Concomitant disease aggravated
+681341	13/12/2021	54	54	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiomegaly
+698326	No match		54			
+698570	No match		54			
+542174	22/04/2021	55	55	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Heparin-induced thrombocytopenia test positive, Pulmonary embolism, Thrombocytopenia
+556577	21/05/2021	55	55	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery, Carotid artery thrombosis, Pulmonary embolism
+561253	31/05/2021	55	55	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+549442	7/05/2021	56	56	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Buprenorphine (buprenorphine hydrochloride) - Not suspected, Endep (amitriptyline hydrochloride) - Not suspected, Trade name not specified (Product not coded) - Not suspected	Adverse event following immunisation
+554665	18/05/2021	56	56	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Respiratory arrest
+577432	30/06/2021	56	56	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Blood glucose decreased
+604158	16/08/2021	56	56	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction, Chills
+609817	24/08/2021	56	56	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dysphagia, Dyspnoea, Malaise, Vomiting
+612191	No match		56			
+626642	17/09/2021	56	56	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression, Pain in extremity
+644868	15/10/2021	56	56	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest
+655394	3/11/2021	56	56	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+548538	No match		57			
+548780	6/05/2021	57	57	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Body temperature increased, Deep vein thrombosis, Dyspnoea, Electrocardiogram, Headache, Hyperglycaemia, Loss of consciousness, Pulmonary embolism, Tachycardia, Tachypnoea
+565261	8/06/2021	57	57	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Injection site pain
+565884	9/06/2021	57	57	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiomegaly
+582919	9/07/2021	57	57	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Crestor (rosuvastatin calcium) - Not suspected, Eutroxsig (levothyroxine sodium) - Not suspected	Concomitant disease progression, Paraesthesia
+613645	30/08/2021	-	57	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Subarachnoid haemorrhage
+616960	No match		57			
+633189	28/09/2021	57	57	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic dissection, Chest pain, Cyanosis, Fibrin D dimer increased, Hyperhidrosis, Hypertension, Pain in extremity, Seizure
+634953	No match		57			
+635457	1/10/2021	57	57	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+655075	3/11/2021	57	57	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Vascular stent thrombosis
+554589	18/05/2021	58	58	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+561144	No match		58			
+580759	6/07/2021	58	58	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Back pain, Headache, Ruptured cerebral aneurysm, Subarachnoid haemorrhage
+585942	14/07/2021	58	58	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident, Fibrin D dimer
+612228	No match		58			
+614324	30/08/2021	58	58	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated, Dizziness
+615960	No match		58			
+636053	2/10/2021	58	58	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Dyspnoea, Fibrin D dimer increased
+655005	3/11/2021	58	58	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Back pain, Blood fibrinogen increased, Cerebellar infarction, Cerebral infarction, Chest pain, Endocarditis, Fibrin D dimer increased, Headache, Hyperhidrosis, Lymphadenopathy, Multiple organ dysfunction syndrome, Pyrexia, Splenomegaly, Staphylococcal sepsis, Thrombocytopenia, Troponin increased, Vomiting
+673255	29/11/2021	58	58	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Epistaxis, Haematemesis, Haemorrhage
+690477	6/01/2022	58	58	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial ischaemia
+562970	3/06/2021	59	59	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+570203	No match		59			
+570805	18/06/2021	59	59	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Pulmonary embolism
+583922	12/07/2021	59	59	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery
+613712	30/08/2021	59	59	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral artery thrombosis, Cerebrovascular accident, Fibrin D dimer increased, Hydrocephalus, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome
+647752	No match		59			
+648928	22/10/2021	59	59	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+586021	14/07/2021	59	60	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiogenic shock, Cardiomyopathy, Congestive hepatopathy, Giant cell myocarditis, Hyponatraemia, Metabolic acidosis, Multiple organ dysfunction syndrome, Syncope, Thrombosis
+557017	23/05/2021	60	60	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation
+563423	4/06/2021	-	60	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+565715	9/06/2021	60	60	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute cardiac event, Pulmonary embolism
+566222	9/06/2021	-	60	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated
+568810	No match		60			
+569553	16/06/2021	60	60	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Haemorrhage intracranial
+577598	30/06/2021	60	60	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea, Fatigue, Headache, Injection site hypersensitivity, Myalgia, Pyrexia, Vomiting
+581649	7/07/2021	60	60	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cognitive disorder, Concomitant disease aggravated, Decreased appetite, Lethargy
+590714	22/07/2021	60	60	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Deep vein thrombosis, Pulmonary embolism
+598769	6/08/2021	60	60	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation, Diarrhoea, Malaise, Pyrexia, Tachypnoea, Vomiting
+603987	16/08/2021	60	60	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Pneumonia, Pulmonary embolism
+604012	No match		60			
+615301	No match		60			
+617841	5/09/2021	60	60	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Chest pain, Dyspnoea, Myocardial ischaemia
+618545	No match		60			
+620719	9/09/2021	-	60	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Alvesco (ciclesonide) - Not suspected, Metoprolol (metoprolol tartrate) - Not suspected, Salbutamol (salbutamol) - Not suspected, Trade name not specified (apixaban) - Not suspected, Trade name not specified (digoxin) - Not suspected, Trade name not specified (furosemide (frusemide)) - Not suspected, Trade name not specified (spironolactone) - Not suspected	Concomitant disease progression
+671307	25/11/2021	60	60	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain, Dyspnoea, Fibrin D dimer increased, Hepatic failure, Oxygen saturation decreased, Peripheral swelling, Pulmonary embolism, Renal failure, Renal infarct, Respiratory failure, Splenic infarction, Thrombocytopenia, Thrombosis, Troponin increased
+562888	3/06/2021	61	61	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+573853	No match		61			
+575228	25/06/2021	61	61	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, APO-Metformin (metformin hydrochloride) - Not suspected, APO-Telmisartan (hydrochlorothiazide; telmisartan) - Not suspected, Apotex Rosuvastatin (rosuvastatin calcium) - Not suspected, FluQuadri Vaccine (Influenza virus haemagglutinin) - Not suspected, Trade name not specified (aspirin) - Not suspected	Blood blister, Cerebral haemorrhage, Epistaxis, Haematemesis, Headache, Immune thrombocytopenia, Petechiae, Rhinitis, Somnolence, Thrombocytopenia, Vomiting
+584625	No match		61			
+590425	22/07/2021	61	61	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Citalopram (citalopram hydrobromide) - Not suspected, Trade name not specified (fenofibrate) - Not suspected, Trade name not specified (gliclazide) - Not suspected, Trade name not specified (mesalazine) - Not suspected, Trade name not specified (pregabalin) - Not suspected, Trade name not specified (risperidone) - Not suspected, Trade name not specified (simvastatin) - Not suspected	Cerebrovascular accident
+604900	17/08/2021	61	61	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Multiple organ dysfunction syndrome, Pneumonia, Septic shock
+671313	No match		61			
+681338	13/12/2021	61	61	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic dissection rupture, Pericardial haemorrhage
+538648	16/04/2021	62	62	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Injection site reaction
+565897	9/06/2021	62	62	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea
+567049	No match		62			
+576017	27/06/2021	62	62	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+577528	30/06/2021	62	62	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intraventricular haemorrhage
+582443	8/07/2021	62	62	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Vaccination error
+583981	12/07/2021	62	62	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+590275	22/07/2021	62	62	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+618181	6/09/2021	62	62	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea, Fatigue, Headache, Hot flush, Myocardial ischaemia
+636312	2/10/2021	62	62	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chills, Concomitant disease progression, Pyrexia, Retching
+649867	25/10/2021	62	62	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aortic dissection, Chest pain
+695164	16/01/2022	62	62	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Nexium (esomeprazole) - Suspected	Concomitant disease progression, Injection site pain, Pain, Vomiting
+697271	No match		62			
+540014	19/04/2021	63	63	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Bisoprolol (bisoprolol fumarate) - Not suspected, Metformin (metformin hydrochloride) - Not suspected, Novomix 30 (Insulin aspart) - Not suspected, Rosuvastatin (rosuvastatin calcium) - Not suspected, Trade name not specified (apixaban) - Not suspected, Trade name not specified (empagliflozin) - Not suspected, Trade name not specified (irbesartan) - Not suspected, Trade name not specified (pantoprazole) - Not suspected	Abdominal pain, Acute disseminated encephalomyelitis, Fatigue
+573810	23/06/2021	63	63	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Altered state of consciousness, Hepatic failure, Multiple organ dysfunction syndrome, Oedema peripheral, Pain in extremity, Pruritus
+610491	25/08/2021	63	63	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Coveram (amlodipine besilate; perindopril arginine) - Not suspected, Trade name not specified (apixaban) - Not suspected, Trade name not specified (atorvastatin) - Not suspected, Trade name not specified (moxonidine) - Not suspected, Xigduo XR (dapagliflozin propanediol monohydrate; metformin hydrochloride) - Not suspected	Cardiac arrest, Meningitis pneumococcal, Septic shock, Streptococcus test positive
+630959	No match		63			
+636642	3/10/2021	63	63	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Fibrin D dimer increased, Hyperglycaemia, Hypoxia, Pneumonia, Pulmonary embolism, SARS-CoV-2 test positive, Sepsis, Thrombocytopenia, Vision blurred
+647153	20/10/2021	63	63	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased, Hypercapnia, Respiratory failure, Thrombocytopenia
+677285	5/12/2021	63	63	Male	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation, Constipation, Cough
+552088	13/05/2021	64	63	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+568584	15/06/2021	64	64	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism
+575276	25/06/2021	64	64	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Fatigue, Pulmonary embolism
+591789	No match		64			
+593330	27/07/2021	64	64	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+613462	30/08/2021	64	64	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+625161	16/09/2021	64	64	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Cardiac arrest, Malaise, Pneumonia
+633133	28/09/2021	64	64	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aspiration, Colitis, Haematemesis, Spontaneous bacterial peritonitis, Vomiting
+660545	8/11/2021	64	64	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute pulmonary oedema, Cardiac failure, Ischaemic stroke
+670217	23/11/2021	64	64	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery
+543252	26/04/2021	65	65	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Congestive cardiomyopathy
+543839	27/04/2021	65	65	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhage intracranial
+547096	3/05/2021	65	65	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Death
+557335	24/05/2021	65	65	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+563322	No match		65			
+584827	13/07/2021	65	65	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation
+592707	27/07/2021	-	65	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Cerebrovascular accident, Deep vein thrombosis, Electrocardiogram ST-T segment abnormal, Fibrin D dimer increased, Hyperhidrosis, Musculoskeletal pain, Presyncope, Pulmonary embolism, Troponin increased
+596892	3/08/2021	65	65	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism
+606577	19/08/2021	65	65	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Chest pain, Fibrin D dimer increased, Seizure, Sepsis, Syncope, Thrombocytopenia
+621287	9/09/2021	65	65	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Coveram (amlodipine besilate; perindopril arginine) - Not suspected, Metformin (metformin hydrochloride) - Not suspected, Trade name not specified (atorvastatin) - Not suspected	Adverse event following immunisation
+627211	19/09/2021	65	65	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Decreased appetite, Deep vein thrombosis, Myoclonus, Pulmonary embolism, Somnolence, Thrombocytopenia, Vomiting
+647034	19/10/2021	65	65	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Basal ganglia haemorrhage, Gastrointestinal haemorrhage, Hypertension
+672776	28/11/2021	65	65	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Ventolin (salbutamol) - Not suspected	Cerebrovascular accident
+587068	15/07/2021	66	65	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+643592	14/10/2021	65	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal discomfort, Coronary artery disease, Cyanosis, Lethargy, Malaise, Pallor
+649510	24/10/2021	66	65	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Concomitant disease aggravated, Dyspnoea, Headache, Myalgia, Pyrexia, Respiratory failure
+543388	26/04/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Circulatory collapse, Dyspnoea, Nausea, Vomiting
+551345	12/05/2021	-	66	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+552086	13/05/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+555329	19/05/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea
+562554	2/06/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ageusia, Anosmia, Asthenia, Cough, Dizziness, Fibrin D dimer increased, Guillain-Barre syndrome, Headache, Lethargy, Paraesthesia, Rash
+563542	4/06/2021	66	66	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+584645	13/07/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Seasonal allergy
+584991	No match		66			
+585324	13/07/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Arteriosclerosis coronary artery
+587072	15/07/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Pulmonary embolism
+605877	No match		66			
+606351	18/08/2021	66	66	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Haemoptysis, Pyrexia, Respiratory failure
+614690	31/08/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Duodart 500/400 (dutasteride; tamsulosin hydrochloride) - Not suspected, Ventolin CFC-free Inhaler (salbutamol sulfate) - Not suspected	Cerebral haematoma, Concomitant disease progression, Headache
+614761	No match		66			
+637789	No match		66			
+654653	2/11/2021	66	66	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure congestive, Hypertensive heart disease
+667316	18/11/2021	66	66	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+521667	5/03/2021	67	67	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+545079	No match		67			
+546880	3/05/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Cardiac arrest, Myocardial ischaemia
+561193	31/05/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+561794	1/06/2021	67	67	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Subarachnoid haemorrhage
+569882	17/06/2021	67	67	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+579102	No match		67			
+583035	9/07/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+583871	12/07/2021	-	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease, Pallor, Peripheral swelling
+606986	19/08/2021	67	67	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction, Dyspnoea, Influenza like illness, Rhinorrhoea
+612172	No match		67			
+612536	27/08/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute disseminated encephalomyelitis, Bickerstaff's encephalitis, Guillain-Barre syndrome
+613030	29/08/2021	67	67	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated, Sepsis
+618187	6/09/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+622436	11/09/2021	67	67	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Ardix Gliclazide 60mg MR (gliclazide) - Not suspected, Cartia (aspirin) - Not suspected, Ferrograd C (ferrous sulfate; sodium ascorbate) - Not suspected, Lipitor (atorvastatin calcium) - Not suspected, Metex XR (metformin hydrochloride) - Not suspected, Minax (metoprolol tartrate) - Not suspected, Salpraz (pantoprazole) - Not suspected, Span-k (potassium chloride) - Not suspected, Uremide (furosemide (frusemide)) - Not suspected	Cerebrovascular accident, Concomitant disease aggravated, Myocardial ischaemia, Syncope
+622885	13/09/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+623386	13/09/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiovascular disorder
+628733	21/09/2021	67	67	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Fibrin D dimer increased, Pulmonary embolism, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome
+629106	No match		67			
+633246	No match		67			
+638037	No match		67			
+654671	2/11/2021	67	67	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+668831	No match		67			
+544823	28/04/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Loss of consciousness, Pneumonia, Seizure, Staphylococcal infection
+557262	24/05/2021	68	68	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+558227	25/05/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident, Diabetic ketoacidosis, End stage renal disease, Myocardial infarction
+560506	30/05/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction
+563050	3/06/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+567288	11/06/2021	68	68	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation
+577489	30/06/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Diarrhoea, Malaise
+585735	14/07/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease
+590090	22/07/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest
+623380	13/09/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+630936	24/09/2021	68	68	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	C-reactive protein increased, Haemoglobin decreased, Intestinal obstruction, Platelet count increased, Pneumonitis aspiration, Pulmonary embolism, Vomiting, White blood cell count increased
+636307	2/10/2021	68	68	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial fibrillation, Bradycardia, Concomitant disease progression, Dyspnoea, Hypotension, Lethargy
+647812	21/10/2021	68	68	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Bradycardia, Concomitant disease progression, Hypotension, Troponin abnormal
+664467	15/11/2021	68	68	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	COVID-19, Cellulitis, Concomitant disease aggravated
+668656	20/11/2021	68	68	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Fatigue, Myocardial ischaemia, Tachycardia
+688848	31/12/2021	68	68	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Cerebral infarction, Multiple organ dysfunction syndrome
+533124	No match		69			
+543358	26/04/2021	69	69	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Sepsis, Urinary tract infection
+548356	5/05/2021	69	69	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated, Dyspnoea, Pyrexia, Somnolence
+558587	26/05/2021	69	69	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+563055	3/06/2021	69	69	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Malaise, Myocardial ischaemia, Pain in extremity
+565016	8/06/2021	69	69	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+568802	15/06/2021	69	69	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Disseminated intravascular coagulation, Meningococcal sepsis
+572757	22/06/2021	69	69	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Chest pain
+583681	No match		69			
+608638	22/08/2021	69	69	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coma scale abnormal, Headache, Hypertensive emergency, Ruptured cerebral aneurysm, Subarachnoid haemorrhage
+613895	30/08/2021	69	69	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Coloxyl With Senna (docusate sodium; sennosides) - Not suspected, Endone (oxycodone hydrochloride) - Not suspected, Metformin (metformin hydrochloride) - Not suspected, Rosuvastatin (rosuvastatin calcium) - Not suspected, Targin (naloxone hydrochloride dihydrate; oxycodone hydrochloride) - Not suspected, Trade name not specified (Macrogol) - Not suspected, Trade name not specified (colecalciferol) - Not suspected, Trade name not specified (fenofibrate) - Not suspected, Trade name not specified (linagliptin) - Not suspected, Trade name not specified (magnesium) - Not suspected, Trade name not specified (mirtazapine) - Not suspected, Trade name not specified (omeprazole) - Not suspected, Trade name not specified (paracetamol) - Not suspected, Trade name not specified (pregabalin) - Not suspected, Trade name not specified (risperidone) - Not suspected	Urosepsis
+618211	6/09/2021	69	69	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction
+633266	28/09/2021	69	69	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure
+634557	No match		69			
+638642	6/10/2021	69	69	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+652908	29/10/2021	69	69	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest
+662528	10/11/2021	69	69	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Myocardial infarction
+539141	16/04/2021	70	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Lethargy, Respiratory failure
+547142	4/05/2021	-	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Chest pain, Fatigue
+548152	5/05/2021	70	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest
+554087	17/05/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Dyspnoea, Food refusal, Oxygen saturation decreased
+554142	No match		70			
+554165	17/05/2021	70	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+554700	18/05/2021	70	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Gastrointestinal haemorrhage
+558689	26/05/2021	70	70	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+559671	No match		70			
+563002	3/06/2021	70	70	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Deep vein thrombosis, Pulmonary thrombosis
+563126	3/06/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Herceptin (Trastuzumab) - Suspected, Perjeta (Pertuzumab) - Suspected	Adverse event following immunisation
+563420	4/06/2021	-	70	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Confusional state, Delirium, Pulmonary embolism, Urinary tract infection
+566399	No match		70			
+566936	11/06/2021	70	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain, Concomitant disease progression, Dyspnoea
+572797	22/06/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Condition aggravated, Immune thrombocytopenia, Platelet count abnormal
+575293	25/06/2021	-	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+576280	No match		70			
+579162	2/07/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Warfarin (warfarin sodium) - Suspected	Abdominal pain upper, Atrial fibrillation, Epistaxis, Heart rate increased, Hypotension, International normalised ratio increased, Subdural haematoma
+584946	No match		70			
+602737	13/08/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Coronary artery disease
+610581	25/08/2021	70	70	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+629365	22/09/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dizziness, Headache, Intracranial aneurysm, Subarachnoid haemorrhage
+651672	27/10/2021	70	70	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
+658321	4/11/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Fatigue, Injection site reaction, Lethargy
+659968	5/11/2021	-	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+683978	17/12/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acquired haemophilia, Myocardial ischaemia, Renal failure, Respiratory failure, Sepsis
+688431	30/12/2021	70	70	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Malaise
+693679	No match		70			
+542726	23/04/2021	71	70	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea, Dysarthria, Vomiting
+531759	6/04/2021	71	71	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea, Erosive oesophagitis, Malaise
+541682	21/04/2021	71	71	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Malaise, Vomiting
+543506	26/04/2021	71	71	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Haemorrhage
+544963	29/04/2021	71	71	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dysarthria, Influenza like illness, Syncope, Vomiting
+549386	7/05/2021	71	71	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+552278	13/05/2021	71	71	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asphyxia
+558667	26/05/2021	71	71	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dizziness, Fatigue, Malaise
+559232	27/05/2021	71	71	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+562311	No match		71			
+563267	3/06/2021	71	71	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Faecal vomiting, Myocardial infarction, Unresponsive to stimuli
+565375	No match		71			
+568784	15/06/2021	71	71	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Hepatorenal failure, Rash, Systemic candida, Thrombocytopenia, Upper respiratory tract infection
+583767	No match		71			
+584834	13/07/2021	71	71	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Hypertensive heart disease, Ischaemia
+596030	2/08/2021	71	71	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Trade name not specified (Product not coded) - Suspected	Hypopnoea
+606973	19/08/2021	71	71	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+619579	7/09/2021	71	71	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Asthenia, Cerebrovascular accident
+625421	No match		71			
+642780	13/10/2021	71	71	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease
+654651	2/11/2021	71	71	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral haemorrhage
+679242	8/12/2021	77	66	Male	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Acute myocardial infarction, Cardiac arrest, Multiple organ dysfunction syndrome
+530690	2/04/2021	72	72	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+543969	27/04/2021	72	72	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Septic shock
+563271	3/06/2021	-	72	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aneurysm, Headache
+563272	3/06/2021	72	72	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Fatigue, Wheezing
+580051	5/07/2021	72	72	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blindness unilateral, Blood fibrinogen decreased, Cerebral venous sinus thrombosis, Fibrin D dimer increased, Haemorrhage intracranial, Headache, Nausea, Thrombocytopenia, Thrombosis with thrombocytopenia syndrome, Vomiting
+588259	No match		72			
+595661	1/08/2021	72	72	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage, Generalised tonic-clonic seizure, Headache
+651938	28/10/2021	72	72	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute kidney injury, C-reactive protein increased, Concomitant disease aggravated, Fibrin D dimer increased, Haemoglobin decreased, Hypotension, Hypothermia, Pulmonary embolism, Red blood cell count decreased, SARS-CoV-2 antibody test positive, Thrombocytopenia
+673298	29/11/2021	72	72	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
+677119	No match		72			
+679513	9/12/2021	72	72	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Chest pain, Headache, Limb discomfort, Pyrexia
+680695	11/12/2021	72	72	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral artery thrombosis, Metastases to liver, Pancreatic carcinoma
+688238	29/12/2021	72	72	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral infarction, Cerebrovascular accident, Coma scale, Depressed level of consciousness, Dysarthria, Electrocardiogram, Facial paralysis, Hemiparesis, Loss of consciousness, Thrombosis
+703066	31/01/2022	72	72	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial thrombosis
+703642	1/02/2022	72	72	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery
+546933	3/05/2021	73	72	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Pulmonary embolism
+531359	5/04/2021	73	73	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Influenza like illness, Injection site reaction
+531705	No match		73			
+539588	18/04/2021	73	73	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Pulmonary embolism
+540025	19/04/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Demyelinating polyneuropathy, Guillain-Barre syndrome
+541528	No match		73			
+541531	No match		73			
+543225	26/04/2021	73	73	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypotension, Pneumonia aspiration, Respiratory failure
+553099	14/05/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+553816	16/05/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia, Cardiac arrest, Chest pain, Deep vein thrombosis, Dizziness, Dyspnoea, Hypotension, Hypoxia, Malaise, Pulmonary embolism, Right ventricular hypertrophy
+561318	31/05/2021	73	73	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fibrin D dimer increased, Thrombocytopenia
+563015	3/06/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intentional overdose, Thrombosis, Toxicity to various agents
+563526	4/06/2021	-	73	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Appendicitis, Peritonitis
+570076	17/06/2021	73	73	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+577553	30/06/2021	73	73	Female	FLUAD QUAD (Influenza virus haemagglutinin) - Suspected, COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Concomitant disease progression, Pulmonary embolism
+581289	7/07/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Adverse event following immunisation
+582827	8/07/2021	73	73	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+583305	9/07/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea
+599522	8/08/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cognitive disorder, Concomitant disease progression, Deep vein thrombosis, Fibrin D dimer increased, Pulmonary embolism, Seizure, Subarachnoid haemorrhage, Thrombocytopenia
+602799	13/08/2021	73	73	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia, Demyelination, Lethargy, Respiratory disorder
+605585	17/08/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Anaemia, Ascites, C-reactive protein increased, Deep vein thrombosis, Fibrin D dimer increased, Haemodynamic instability, Pulmonary embolism, Thrombocytopenia
+613388	30/08/2021	-	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery
+622718	No match		73			
+625843	16/09/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain, C-reactive protein increased, Diarrhoea, Multiple organ dysfunction syndrome
+626403	17/09/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction, Cardiac arrest, Hypoaesthesia, Thrombocytopenia, Troponin increased
+635096	30/09/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated, Pulmonary embolism
+636296	2/10/2021	73	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardio-respiratory arrest, Cerebral haemorrhage, Cerebral mass effect, Fall, Immune thrombocytopenia, Subdural haematoma, Thrombocytopenia
+650170	No match		73			
+555676	20/05/2021	74	73	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain, Blood urine present, Cerebrovascular accident, Haematuria, Haemorrhage, Thrombosis
+587654	16/07/2021	72	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Cardiac arrest, Guillain-Barre syndrome, Myelitis transverse, Respiratory failure
+698967	21/01/2022	73	74	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain, Concomitant disease progression, Dyspnoea, Gastrooesophageal reflux disease, Malaise, Nausea
+542323	22/04/2021	74	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Back pain, Chest pain, Dyspnoea
+561111	31/05/2021	74	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+568200	14/06/2021	74	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Trade name not specified (Product not coded) - Suspected	Encephalitis, Fibrin D dimer increased, Headache, Heparin-induced thrombocytopenia, Neoplasm malignant, Opsoclonus myoclonus, Pulmonary sarcoidosis
+574393	24/06/2021	74	74	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Trade name not specified (Product not coded) - Suspected	Adverse event following immunisation
+575406	25/06/2021	74	74	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea
+600792	10/08/2021	74	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+616464	2/09/2021	74	74	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea, Vomiting
+626646	17/09/2021	-	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Pulmonary embolism, Thrombosis
+628504	21/09/2021	74	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain, Deep vein thrombosis, Factor V Leiden mutation, Malaise, Pulmonary embolism
+636272	2/10/2021	74	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Dyspnoea, Lethargy, Malaise
+641824	12/10/2021	74	74	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Fibrin D dimer increased, Hypertension, Thrombocytopenia
+643809	14/10/2021	74	74	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, International normalised ratio abnormal
+675873	No match		74			
+682142	15/12/2021	74	74	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiomyopathy, Contusion, Thrombocytopenia, Visual impairment
+534960	9/04/2021	75	75	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dysarthria, Encephalopathy, Generalised tonic-clonic seizure, Lethargy, Magnetic resonance imaging head, Vomiting
+535750	12/04/2021	75	75	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Loss of consciousness, Pulmonary oedema
+537100	14/04/2021	75	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+555187	19/05/2021	75	75	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+561074	31/05/2021	75	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+564420	7/06/2021	-	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Disease progression
+565366	8/06/2021	75	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+572390	21/06/2021	-	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Mesenteric artery thrombosis, Peripheral ischaemia
+583164	9/07/2021	75	75	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Micardis (telmisartan) - Not suspected, Relpax (eletriptan hydrobromide) - Not suspected, Tramadol (tramadol hydrochloride) - Not suspected, Valium (diazepam) - Not suspected, Ventolin (salbutamol) - Not suspected	Fatigue, Pneumonia
+588021	18/07/2021	75	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Coronary artery disease
+620368	8/09/2021	75	75	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest
+623399	13/09/2021	75	75	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiovascular disorder
+624524	No match		75			
+630256	No match		75			
+632776	27/09/2021	-	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Pulmonary embolism
+655686	4/11/2021	75	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Encephalitis
+672578	27/11/2021	75	75	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Bradycardia, Bundle branch block right, Cardiomegaly, Cyanosis, Deep vein thrombosis, Fibrin D dimer increased, Hypotension, Hypoxia, Pulmonary embolism, Respiratory distress, Syncope, Tachycardia, Troponin I increased
+699744	24/01/2022	75	75	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	COVID-19, Concomitant disease progression, Respiratory failure, SARS-CoV-2 test positive, Vaccination failure
+703511	31/01/2022	75	75	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Dyspnoea, Fall, Hyperhidrosis, Loss of consciousness, Respiratory arrest
+521311	4/03/2021	76	76	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Unresponsive to stimuli
+534327	9/04/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Crestor (rosuvastatin calcium) - Not suspected, Micardis (telmisartan) - Not suspected, Trade name not specified (temazepam) - Not suspected, Xarelto (rivaroxaban) - Not suspected	Confusional state, Haemorrhage intracranial, Hypotension, Meningitis, Nausea, Sepsis, Vomiting
+542385	22/04/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cold sweat, Coronary artery disease, Dyspnoea, Headache, Hypertension, Influenza like illness, Myocardial ischaemia, Seizure
+552107	13/05/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+552117	13/05/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea
+552934	14/05/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Headache
+553016	14/05/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Malaise
+565076	8/06/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Feeling cold, Headache
+567054	11/06/2021	76	76	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute kidney injury, Atrial fibrillation, Diarrhoea, Hypertension, Sepsis, Syncope
+572539	22/06/2021	-	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest discomfort, Concomitant disease aggravated, Cough, Dysphonia, Dyspnoea
+576368	28/06/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Multiple organ dysfunction syndrome
+589650	21/07/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Eliquis (apixaban) - Not suspected, Metoprolol (metoprolol tartrate) - Not suspected, Rosuvastatin (rosuvastatin calcium) - Not suspected, Trade name not specified (Product not coded) - Not suspected, Zostavax (live varicella vaccine) - Not suspected	Brain stem haemorrhage
+593550	No match		76			
+595219	No match		76			
+595884	2/08/2021	-	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery, Myocardial ischaemia
+596981	3/08/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Eliquis (apixaban) - Not suspected	Adverse event following immunisation, Dyspnoea, Infection, Palpitations
+598238	5/08/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Congestive cardiomyopathy
+601377	11/08/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Pancreatitis acute
+613029	29/08/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+615790	1/09/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia, Facial paralysis, Pharyngeal swelling
+615920	2/09/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Chest pain, Dyspnoea, Pneumothorax, Pulmonary congestion, Pulmonary embolism
+625877	16/09/2021	-	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Deep vein thrombosis, Fall, Pneumonia aspiration, Pulmonary embolism
+632170	26/09/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory arrest
+634300	29/09/2021	-	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Pyrexia
+647972	21/10/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrioventricular block, Haemorrhage intracranial
+648284	21/10/2021	76	76	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure, Cardio-respiratory arrest, Pulmonary embolism, Thrombocytopenia
+652299	28/10/2021	76	76	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Autoimmune hepatitis, Hepatic failure, Hepatitis, Multiple organ dysfunction syndrome, Myositis, Pneumonitis
+664116	14/11/2021	76	76	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, FluQuadri Vaccine (Influenza virus haemagglutinin) - Suspected	Deep vein thrombosis, Fibrin D dimer increased, Gastrointestinal haemorrhage, Haemoglobin decreased, Pleural effusion, Pulmonary embolism, Pulmonary oedema, Thrombocytopenia
+665580	16/11/2021	76	76	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain, Cough, Dyspnoea, Haematemesis, Haemoptysis, Troponin increased
+667933	No match		76			
+524083	18/03/2021	77	77	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	General physical health deterioration
+526002	24/03/2021	77	77	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated, Depressed level of consciousness, Lethargy, Pyrexia, Respiratory arrest
+529059	No match		77			
+535193	10/04/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism
+546816	3/05/2021	77	77	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Fluad (Influenza virus haemagglutinin) - Not suspected	Blood fibrinogen increased, Mesenteric artery thrombosis, Pulseless electrical activity
+551062	11/05/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cyanosis, Dyspnoea
+555741	20/05/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+564913	7/06/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Upper gastrointestinal haemorrhage
+565335	8/06/2021	77	77	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+593763	28/07/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute abdomen, Arthralgia, Cardiac arrest, Constipation, Haematuria, Myalgia, Pyrexia, Respiratory arrest, Respiratory failure, Sepsis
+593820	28/07/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Fibrin D dimer increased, Hepatic failure, Thrombocytopenia
+598671	6/08/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Cardiac failure, Dyspnoea, Emphysema, Pulmonary fibrosis, Pulmonary hypertension
+599108	No match		77			
+602118	12/08/2021	77	77	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Guillain-Barre syndrome, Nausea, Pulmonary embolism
+619817	7/09/2021	-	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Vertebrobasilar stroke
+647903	No match		77			
+651143	27/10/2021	77	77	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression, Pyrexia
+662057	10/11/2021	77	77	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+667940	19/11/2021	77	77	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arthralgia, Concomitant disease progression, Haematuria, Myalgia, Respiratory arrest
+679387	8/12/2021	77	77	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction, Cardiac arrest, Electrocardiogram abnormal, Hypocalcaemia, Hypoglycaemia, Hypokalaemia
+680418	10/12/2021	77	77	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression, Pneumonia, Respiratory failure
+681158	13/12/2021	77	77	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial ischaemia
+547969	5/05/2021	77	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Atrial flutter, Cardiac arrest, Palpitations
+521644	5/03/2021	-	78	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dysphagia, Injection site reaction, Somnolence, Weight decreased
+527894	28/03/2021	-	78	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	General physical health deterioration
+535742	12/04/2021	78	78	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fall, Loss of consciousness
+546762	No match		78			
+547452	No match		78			
+548338	5/05/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Dyspnoea, Pulmonary embolism
+549686	7/05/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, MK-8835 ( Ertugliflozin ) (ertugliflozin) - Not suspected, Trade name not specified (Product not coded) - Not suspected, Trade name not specified (aspirin) - Not suspected, Trade name not specified (atorvastatin) - Not suspected, Trade name not specified (clopidogrel) - Not suspected, Trade name not specified (domperidone) - Not suspected, Trade name not specified (irbesartan) - Not suspected, Trade name not specified (pantoprazole) - Not suspected, Trade name not specified (ranitidine) - Not suspected, Trade name not specified (sitagliptin) - Not suspected	Acute myocardial infarction, Fibrin D dimer increased
+552770	14/05/2021	78	78	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction, Concomitant disease aggravated, Lethargy, Malaise, Vomiting
+558268	25/05/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pneumonia
+559053	27/05/2021	78	78	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+562118	1/06/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Capillary leak syndrome, Fatigue, Multiple organ dysfunction syndrome, Myalgia, Polycythaemia, Syncope, Thrombocytopenia
+567421	No match		78			
+569332	16/06/2021	78	78	Female	Trade name not specified (Enoxaparin) - Suspected, COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Cerebral venous thrombosis, Fibrin D dimer increased, Haemorrhage intracranial, Heparin-induced thrombocytopenia, Pulmonary embolism
+577565	30/06/2021	78	78	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Intestinal ischaemia, Septic shock
+577898	1/07/2021	78	78	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute kidney injury, Breast abscess, Influenza like illness, Pyrexia
+595258	30/07/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac ventricular thrombosis, Cerebral infarction, Fibrin D dimer increased, Sepsis, Thrombocytopenia
+596035	No match		78			
+596900	3/08/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pericardial haemorrhage
+609229	23/08/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+615152	No match		78			
+615222	1/09/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease
+650265	25/10/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Trade name not specified (Product not coded) - Not suspected, Trade name not specified (aspirin) - Not suspected, Trade name not specified (felodipine) - Not suspected, Trade name not specified (leflunomide) - Not suspected	Adverse event following immunisation, Decreased appetite, Dyspnoea, Fatigue, Pyrexia
+674876	1/12/2021	78	78	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+682377	15/12/2021	78	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral infarction, Diarrhoea, Guillain-Barre syndrome
+683061	No match		78			
+549691	7/05/2021	79	78	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest
+531754	6/04/2021	79	79	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea
+535110	9/04/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+542194	22/04/2021	79	79	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Trade name not specified (Product not coded) - Suspected	Cerebral haemorrhage
+543965	27/04/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+545445	30/04/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Brain injury, Cardiac arrest, Chest pain
+547090	3/05/2021	79	79	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Dextran (dextran 70; glucose monohydrate) - Not suspected, Pravastatin (pravastatin sodium) - Not suspected, Trade name not specified (allopurinol) - Not suspected, Trade name not specified (amlodipine) - Not suspected, Trade name not specified (bimatoprost) - Not suspected, Trade name not specified (hypromellose) - Not suspected, Trade name not specified (irbesartan) - Not suspected, Trade name not specified (pantoprazole) - Not suspected, Trade name not specified (trimethoprim) - Not suspected, Valaciclovir (valaciclovir hydrochloride) - Not suspected	Chest pain, Dyspnoea, Peripheral swelling, Tachycardia
+550219	10/05/2021	-	79	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral infarction, Myocardial ischaemia
+554151	17/05/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+559367	27/05/2021	79	79	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia aspiration
+562959	No match		79			
+562980	3/06/2021	-	79	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm
+576409	28/06/2021	79	79	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest
+576410	28/06/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery thrombosis, Myocardial infarction, Nasopharyngitis
+581407	7/07/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Pericardial haemorrhage
+601767	11/08/2021	-	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arrhythmia, Concomitant disease aggravated
+610014	24/08/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+618180	6/09/2021	79	79	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea, Retching, Subdural haematoma
+626537	17/09/2021	-	79	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+638153	5/10/2021	79	79	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Aortic aneurysm, Deep vein thrombosis, Haematological malignancy
+670921	24/11/2021	79	79	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest
+547870	5/05/2021	80	79	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Confusional state, Diabetes mellitus, Disorientation, Fall, Hypotension, Influenza like illness, Loss of consciousness
+535872	12/04/2021	80	80	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Unresponsive to stimuli
+537556	14/04/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Bisoprolol (bisoprolol fumarate) - Not suspected, Eliquis (apixaban) - Not suspected, Keflex (cefalexin monohydrate) - Not suspected, Panadeine Forte (codeine phosphate hemihydrate; paracetamol) - Not suspected, Trade name not specified (atorvastatin) - Not suspected, Trade name not specified (colchicine) - Not suspected, Trade name not specified (perindopril) - Not suspected	Pneumonia aspiration, Small intestinal obstruction, Vomiting
+549073	7/05/2021	80	80	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Oedema peripheral
+558522	26/05/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Influenza Vaccine (TNS) (Influenza virus haemagglutinin) - Suspected	Aortic aneurysm rupture, Chest discomfort, Condition aggravated, Malaise
+561837	1/06/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture
+565235	8/06/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery
+567655	12/06/2021	80	80	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Trade name not specified (Product not coded) - Not suspected	Asthenia, Cyanosis, Hallucination, Unresponsive to stimuli
+570053	17/06/2021	80	80	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory failure
+576408	28/06/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Malaise, Pulmonary embolism
+583673	11/07/2021	-	80	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Coma scale abnormal, Oxygen saturation, Somnolence
+590821	No match		80			
+592497	26/07/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain, Acute kidney injury, Cardiac arrest, Cardiogenic shock, Decreased appetite, Dizziness, Fatigue, Hypoxic-ischaemic encephalopathy, Lymphoma, Multiple organ dysfunction syndrome, Nausea, Upper gastrointestinal haemorrhage
+593015	27/07/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ruptured cerebral aneurysm
+596207	No match		80			
+596980	3/08/2021	80	80	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+597796	4/08/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+603999	16/08/2021	80	80	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+609053	23/08/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute kidney injury, Concomitant disease aggravated, Pulmonary embolism, Pulseless electrical activity, Troponin increased
+632340	27/09/2021	80	80	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis, Cardiac arrest
+636562	3/10/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, AMCLAVOX DUO FORTE 875/125 (amoxicillin trihydrate; clavulanic acid) - Not suspected, Actonel (risedronate sodium) - Not suspected, Crosuva (rosuvastatin calcium) - Not suspected, Metoprolol (metoprolol tartrate) - Not suspected, Spiriva (tiotropium bromide monohydrate) - Not suspected, Symbicort Turbuhaler 400/12 (budesonide; formoterol (eformoterol) fumarate dihydrate) - Not suspected, Trade name not specified (doxycycline) - Not suspected, Trade name not specified (prednisone) - Not suspected	Cough, Dyspnoea, Haemophagocytic lymphohistiocytosis, Multiple organ dysfunction syndrome, Pyrexia, Thrombocytopenia
+638929	6/10/2021	80	80	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+667978	19/11/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated, Cough, Dyspnoea, Pyrexia
+675554	1/12/2021	80	80	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Trade name not specified (apixaban) - Not suspected	Cardiac arrest, Subarachnoid haemorrhage
+679377	No match		80			
+684632	20/12/2021	80	80	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Concomitant disease aggravated, Decreased appetite, Echocardiogram, Endocarditis, Fibrin D dimer increased, Lethargy, Melaena, Thrombocytopenia, Vomiting
+521302	4/03/2021	-	81	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite, Depressed level of consciousness, Dysphagia, Vomiting
+521683	5/03/2021	81	81	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aspiration, Sepsis, Vomiting
+536538	No match		81			
+539979	19/04/2021	81	81	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
+546342	1/05/2021	81	81	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction, Atrial fibrillation
+551850	12/05/2021	81	81	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Body temperature decreased, Hypotension, Hypoxia, Unresponsive to stimuli, Wheezing
+570818	18/06/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ataxia, Guillain-Barre syndrome
+576744	29/06/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Dyspnoea
+585981	14/07/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+587205	16/07/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture, Cardiac arrest, Gastrooesophageal reflux disease, Headache, Malaise
+592782	27/07/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+602916	13/08/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+605490	17/08/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+606546	19/08/2021	81	81	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia, Bradycardia, Cellulitis, Hypothermia, Immune thrombocytopenia, Lethargy, Multiple organ dysfunction syndrome, Pancytopenia, Sepsis
+635246	1/10/2021	81	81	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Fibrin D dimer increased, Multiple organ dysfunction syndrome, Pneumonia, Thrombocytopenia, Urinary tract infection
+638353	No match		81			
+697282	19/01/2022	81	81	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial ischaemia
+703008	31/01/2022	81	81	Male	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected, COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Hypertensive heart disease, Myocardial ischaemia
+530248	1/04/2021	82	82	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+531742	6/04/2021	82	82	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall, Hyperhidrosis, Hypotension, Subdural haemorrhage, Unresponsive to stimuli
+532790	6/04/2021	82	82	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Cardiopulmonary failure
+533147	7/04/2021	82	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cyanosis, Dyspnoea, Respiratory distress
+540098	19/04/2021	82	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Vomiting
+541534	21/04/2021	82	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+543115	25/04/2021	82	82	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+543347	26/04/2021	82	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness, Disseminated intravascular coagulation, Sepsis
+543362	26/04/2021	82	82	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall, Subdural haemorrhage
+546503	2/05/2021	82	82	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Terminal state
+560481	30/05/2021	82	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Deep vein thrombosis, Pulmonary embolism
+563665	4/06/2021	82	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation, Cerebrovascular accident
+575009	24/06/2021	82	82	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Concomitant disease aggravated
+579532	No match		82			
+582521	8/07/2021	82	82	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression, Vaccination error
+582846	9/07/2021	82	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+583098	9/07/2021	82	82	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased, Thrombocytopenia
+597340	No match		82			
+598472	5/08/2021	82	82	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+617755	5/09/2021	82	82	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain upper, Atrial fibrillation, Dysarthria, Vomiting
+626784	18/09/2021	82	82	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+658641	5/11/2021	82	82	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain, Dyspnoea, Extradural haematoma, Extradural haematoma evacuation, Fibrin D dimer increased, Subdural haematoma, Subdural haematoma evacuation, Thrombocytopenia
+668139	19/11/2021	82	82	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage, Cerebrovascular accident, Confusional state, Headache, Rash
+543260	26/04/2021	83	82	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia, Cardiac arrest, Headache, Malaise, Somnolence
+522710	12/03/2021	83	83	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest
+523503	No match		83			
+525796	24/03/2021	83	83	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Gastrointestinal haemorrhage, Rash
+535185	10/04/2021	83	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arthralgia, Tenosynovitis stenosans
+539888	19/04/2021	83	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Anaemia, Concomitant disease progression, Pulmonary embolism, Thrombocytopenia
+542206	22/04/2021	83	83	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Intestinal obstruction
+547424	4/05/2021	83	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+549431	7/05/2021	83	83	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypophagia, Pneumonia aspiration, Pyrexia
+551574	12/05/2021	83	83	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral haemorrhage, Embolic stroke
+552212	13/05/2021	83	83	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+553078	14/05/2021	83	83	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Agitation, Dyspnoea, Myocardial infarction
+553220	14/05/2021	-	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+553718	15/05/2021	83	83	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated, Contusion, Headache, Incoherent, Malaise, Pneumonia, Unresponsive to stimuli
+558350	26/05/2021	83	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Deep vein thrombosis, Pulmonary embolism
+568387	14/06/2021	83	83	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dysarthria, Multiple organ dysfunction syndrome, Pneumonia
+595495	No match		83			
+614996	No match		83			
+616146	2/09/2021	83	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhagic stroke, Headache
+620090	8/09/2021	83	83	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression, Lymphoma
+623212	13/09/2021	83	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhage intracranial
+626452	17/09/2021	83	83	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Aortic aneurysm
+645040	No match		83			
+646740	19/10/2021	83	83	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage, Headache, Muscle spasms
+670454	No match		83			
+687718	27/12/2021	83	83	Male	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Confusional state, Injection site pain, Pneumonia
+529201	30/03/2021	84	84	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation
+531342	5/04/2021	84	84	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Respiratory failure, Vomiting
+545654	30/04/2021	84	84	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+565624	No match		84			
+565693	9/06/2021	84	84	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac failure, Contusion, Dyspnoea, Lethargy, Pain in extremity, Unresponsive to stimuli
+575493	25/06/2021	84	84	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain
+576351	No match		84			
+577430	30/06/2021	84	84	Not Specified	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Chills, Cough, Insomnia, Vomiting
+585792	No match		84			
+609766	24/08/2021	84	84	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer, Mesenteric vein thrombosis, Peripheral artery occlusion, Pulmonary embolism
+617751	5/09/2021	84	84	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated, Fibrin D dimer increased, Pleural effusion, Thrombocytopenia
+625235	16/09/2021	84	84	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+630009	23/09/2021	84	84	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ascites, Hepatic cirrhosis, Portal vein thrombosis, Thrombocytopenia
+635499	No match		84			
+647067	19/10/2021	84	84	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ataxia, Cerebrovascular accident, Lethargy, Pneumonia aspiration
+647845	No match		84			
+661396	9/11/2021	84	84	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+695644	17/01/2022	84	84	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+557946	25/05/2021	85	84	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac valve disease, Myocardial ischaemia
+542222	22/04/2021	85	85	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness
+542880	23/04/2021	85	85	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism
+546506	2/05/2021	85	85	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Terminal state
+553131	14/05/2021	85	85	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+554588	18/05/2021	85	85	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+571121	18/06/2021	85	85	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+579759	No match		85			
+583089	9/07/2021	85	85	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Cardizem (diltiazem hydrochloride) - Suspected, Lasix (furosemide (frusemide)) - Suspected, Spiractin (spironolactone) - Suspected, Trade name not specified (Product not coded) - Interaction, Trade name not specified (Product not coded) - Not suspected	Concomitant disease progression, Fatigue, Fluid intake reduced, Pneumonia
+584822	13/07/2021	85	85	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation
+586012	No match		85			
+593278	27/07/2021	85	85	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic rupture
+598846	6/08/2021	85	85	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cellulitis streptococcal, Chills, Pyrexia, Sepsis
+606340	18/08/2021	85	85	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea
+606352	18/08/2021	85	85	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism
+617042	No match		85			
+618531	6/09/2021	85	85	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+692021	10/01/2022	85	85	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute pulmonary oedema, Concomitant disease progression
+538304	15/04/2021	86	85	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Agonal respiration, Haemorrhage intracranial, Hypertension, Paraesthesia, Unresponsive to stimuli
+583670	11/07/2021	85	86	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ischaemic stroke, Pneumonia aspiration
+527413	26/03/2021	86	86	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral haemorrhage, Cerebrovascular accident
+529053	30/03/2021	86	86	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vomiting
+536304	12/04/2021	86	86	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Disease progression
+549639	7/05/2021	86	86	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+562649	No match		86			
+563022	3/06/2021	86	86	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Arteriosclerosis coronary artery, Arthralgia, Chest pain, Malaise, Vomiting
+566310	10/06/2021	86	86	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+569171	16/06/2021	86	86	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism
+569816	17/06/2021	-	86	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Confusional state, Decreased appetite, Fatigue, Pneumonia aspiration
+573987	24/06/2021	86	86	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Clexane (Enoxaparin) - Not suspected	Bradycardia, Cerebrovascular accident, Deep vein thrombosis, Dysphagia, Epistaxis, Haematemesis, Myocardial infarction, Platelet count decreased, Pulmonary embolism, Splenic infarction, Staphylococcal bacteraemia, Vertigo
+576749	29/06/2021	86	86	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aphasia, Confusional state, Muscular weakness, Thrombosis
+578048	1/07/2021	86	86	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+585154	13/07/2021	86	86	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+594970	30/07/2021	86	86	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall
+598302	5/08/2021	86	86	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation
+603989	No match		86			
+605347	17/08/2021	86	86	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident, Cerebrovascular disorder
+648326	21/10/2021	-	86	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea, Myocardial infarction, Pneumonia
+651019	26/10/2021	86	86	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+688346	30/12/2021	86	86	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident, Confusional state, Dysphagia, Hypertension
+688847	31/12/2021	86	87	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain, C-reactive protein increased, Delirium, Fall, Haemorrhage intracranial, Urinary tract infection
+523387	16/03/2021	87	87	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Thyroxine (levothyroxine sodium) - Not suspected, Trade name not specified (allopurinol) - Not suspected, Trade name not specified (ferrous sulfate) - Not suspected	Pulmonary embolism
+535733	12/04/2021	87	87	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+539580	18/04/2021	-	87	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+539893	19/04/2021	87	87	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+543246	26/04/2021	87	87	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrioventricular block, Cardiac arrest, Vomiting
+546651	3/05/2021	87	87	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression, Deep vein thrombosis, Peripheral swelling
+557967	25/05/2021	87	87	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Fluarix (Influenza virus haemagglutinin) - Suspected	Adverse event following immunisation
+563017	No match		87			
+565130	No match		87			
+565698	9/06/2021	87	87	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+567348	11/06/2021	87	87	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+581533	7/07/2021	87	87	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Diamox (acetazolamide) - Not suspected, Escitalopram AN (Escitalopram) - Not suspected, Rabeprazole (rabeprazole sodium) - Not suspected, Trade name not specified (Clotrimazole) - Not suspected, Trade name not specified (budesonide) - Not suspected	Concomitant disease progression
+595766	1/08/2021	87	87	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+596955	3/08/2021	-	87	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+597604	No match		87			
+598895	6/08/2021	87	87	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+606330	18/08/2021	87	87	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blood pressure decreased, Cardiogenic shock, Somnolence
+609222	23/08/2021	-	87	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism
+613020	No match		87			
+613372	30/08/2021	87	87	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory failure
+654822	2/11/2021	-	87	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Epistaxis, Myocardial ischaemia, Thrombosis
+664459	15/11/2021	87	87	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial ischaemia
+543359	26/04/2021	87	88	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia
+677502	6/12/2021	88	87	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+532798	6/04/2021	88	88	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial fibrillation, Cerebral venous thrombosis, Intestinal infarction, Intestinal ischaemia, Mesenteric artery embolism
+537408	14/04/2021	88	88	Not Specified	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+538583	16/04/2021	88	88	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall, Myocardial infarction
+540158	19/04/2021	88	88	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral infarction, Condition aggravated, Microangiopathic haemolytic anaemia, Thrombocytopenia
+541883	22/04/2021	88	88	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected, Coveram 10mg/5mg (perindopril arginine; amlodipine besilate) - Not suspected, Diabex (metformin hydrochloride) - Not suspected, Trade name not specified (Product not coded) - Not suspected	Adverse event following immunisation
+543370	26/04/2021	88	88	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall, Pneumothorax
+543895	27/04/2021	88	88	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Metformin (metformin hydrochloride) - Not suspected, Trade name not specified (atenolol) - Not suspected, Trade name not specified (irbesartan) - Not suspected	Influenza like illness
+545338	No match		88			
+547411	4/05/2021	88	88	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+551047	11/05/2021	88	88	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Trade name not specified (Product not coded) - Suspected	Concomitant disease progression, Cyanosis, Pain, Pallor
+552974	No match		88			
+554080	No match		88			
+554127	17/05/2021	88	88	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+555025	19/05/2021	88	88	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Loss of consciousness, Malaise
+561128	31/05/2021	88	88	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blood pressure abnormal, Fatigue, Hyperkalaemia, Myalgia, Renal failure, Retching, Vision blurred
+569189	16/06/2021	88	88	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Encephalitis
+574229	24/06/2021	88	88	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cyanosis, Dyspnoea
+579034	No match		88			
+629243	22/09/2021	88	88	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory arrest
+543110	25/04/2021	88	89	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Anaemia, Fibrin D dimer increased, Platelet count decreased, Sepsis
+532021	6/04/2021	89	89	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vomiting
+535903	12/04/2021	89	89	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest
+541426	21/04/2021	89	89	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia, Cerebrovascular accident
+550666	10/05/2021	89	89	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated, Somnolence, Vision blurred
+557868	25/05/2021	89	89	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+561179	31/05/2021	89	89	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation, Fall
+562926	3/06/2021	89	89	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+598170	5/08/2021	89	89	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis coronary artery, Cardiomegaly, Myocardial fibrosis
+603418	No match		89			
+605174	17/08/2021	89	89	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage
+609807	24/08/2021	89	89	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dizziness, Dyspnoea, Lethargy, Malaise, Pneumonia, Renal failure, Sepsis
+613011	29/08/2021	89	89	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral infarction, Decreased appetite, Lethargy, Oxygen saturation decreased, Somnolence
+623046	13/09/2021	89	89	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic dissection, Pericardial haemorrhage
+682908	15/12/2021	89	89	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Cerebrovascular accident, Fall
+521743	6/03/2021	90	90	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Vomiting
+527357	26/03/2021	-	90	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
+533668	8/04/2021	90	90	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness
+539928	19/04/2021	90	90	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+541164	No match		90			
+551568	12/05/2021	90	90	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest
+553998	17/05/2021	90	90	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intestinal obstruction, Pain, Pneumonia aspiration
+554730	18/05/2021	90	90	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aortic aneurysm rupture, Fall, Hypotension, Traumatic intracranial haemorrhage
+561319	31/05/2021	90	90	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+565154	8/06/2021	90	90	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated, Concomitant disease progression, Constipation, Deep vein thrombosis, Fibrin D dimer increased, Heparin-induced thrombocytopenia, Thrombocytopenia
+569303	No match		90			
+570165	No match		90			
+570789	18/06/2021	90	90	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest, Decreased appetite, Hypotension, Lethargy, Malaise
+577930	1/07/2021	90	90	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cholecystitis acute, Infection, Multiple organ dysfunction syndrome, Septic shock
+585806	14/07/2021	90	90	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia, Concomitant disease aggravated, Pneumonia
+588772	20/07/2021	90	90	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident, Herpes zoster
+597597	No match		90			
+598896	6/08/2021	90	90	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall, Lower respiratory tract infection, Oxygen saturation decreased, Sepsis, Syncope, Vomiting
+654798	2/11/2021	90	90	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+654855	2/11/2021	90	90	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+681656	14/12/2021	90	90	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Internal haemorrhage, Migraine, Oedema peripheral, Pulmonary embolism
+683823	17/12/2021	90	90	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	General physical health deterioration, Pneumonia, Sepsis
+686938	23/12/2021	90		Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Internal haemorrhage, Migraine, Oedema peripheral, Petechiae, Pulmonary embolism
+689732	5/01/2022	90	90	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Concomitant disease progression
+691465	9/01/2022	90	90	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction, Cardiac arrest, Cardiogenic shock
+541331	21/04/2021	91	90	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiogenic shock
+542302	22/04/2021	90	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+687442	25/12/2021	90	91	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident, Concomitant disease progression, Gastrointestinal haemorrhage, Herpes zoster, Malaise, Myalgia, Pancytopenia, Sepsis
+524473	19/03/2021	91	91	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Malaise
+529418	31/03/2021	91	91	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Malaise
+535523	12/04/2021	91	91	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain, Dyspnoea, Myocardial infarction, Nausea, Sepsis, Unresponsive to stimuli
+539728	19/04/2021	91	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dysarthria, Ischaemic stroke, Lethargy, Loss of consciousness
+540106	19/04/2021	91	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite, Facial paralysis, Hemiparesis, Lethargy
+543278	26/04/2021	91	91	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Blister, Lethargy, Rash, Toxic epidermal necrolysis
+554019	No match		91			
+554503	18/05/2021	91	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Contusion, Cough, Dyspnoea, Oxygen saturation decreased, Wheezing
+557542	24/05/2021	91	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aspiration
+558353	26/05/2021	91	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction
+563514	4/06/2021	91	91	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation, Pneumonia
+564539	7/06/2021	91	91	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+566295	10/06/2021	91	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction, Confusional state, Dyspnoea, Myocardial ischaemia, Pain in extremity
+567973	14/06/2021	91	91	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+572860	No match		91			
+576070	No match		91			
+577133	29/06/2021	91	91	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction
+577374	No match		91			
+588770	20/07/2021	91	91	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure, Epistaxis, Fibrin D dimer increased, Immune thrombocytopenia
+595381	30/07/2021	91	91	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+596984	No match		91			
+597812	No match		91			
+612314	27/08/2021	91	91	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pericardial haemorrhage
+619841	No match		91			
+628900	21/09/2021	91	91	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Lacunar infarction
+520837	1/03/2021	92	92	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation, Loss of consciousness
+522108	9/03/2021	92	92	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea
+522391	11/03/2021	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Ischaemic stroke, Mydriasis
+538589	16/04/2021	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
+540763	20/04/2021	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypotension, Loss of consciousness, Nausea, Pain
+541389	21/04/2021	-	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite, Dysphagia
+543461	26/04/2021	92	92	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Death, Loss of consciousness
+546400	No match		92			
+546910	3/05/2021	92	92	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	General physical health deterioration, Myocardial infarction
+554579	18/05/2021	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Somnolence
+554711	18/05/2021	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain, Intestinal perforation, Vomiting
+556634	21/05/2021	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction
+561188	31/05/2021	92	92	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Unresponsive to stimuli
+563058	3/06/2021	92	92	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Multiple organ dysfunction syndrome
+563694	4/06/2021	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Trade name not specified (Product not coded) - Not suspected	Cerebrovascular accident
+571278	18/06/2021	92	92	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Fall
+595253	30/07/2021	92	92	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression
+608908	No match		92			
+609484	24/08/2021	92	92	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute coronary syndrome, Cardiac arrest, Pneumonia, Pulmonary oedema
+618446	6/09/2021	92	92	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Malaise, Nausea
+636516	3/10/2021	92	92	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation, Chest pain, Fatigue
+689418	4/01/2022	92	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest, Concomitant disease aggravated, Infarction, Respiratory arrest
+528392	29/03/2021	93	92	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
+536914	13/04/2021	92	93	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Unresponsive to stimuli
+522731	12/03/2021	93	93	Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Pneumonia, Respiratory failure
+528345	29/03/2021	93	93	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain, General physical health deterioration
+539895	19/04/2021	93	93	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	General physical health deterioration
+549441	7/05/2021	93	93	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected, Xarelto (rivaroxaban) - Suspected	Cerebral haemorrhage
+554002	17/05/2021	93	93	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident, Decreased appetite
+563500	4/06/2021	93	93	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypotension, Hypothermia
+565411	8/06/2021	93	93	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia aspiration, Vomiting
+572771	No match		93			
+573003	22/06/2021	93	93	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral infarction
+573150	23/06/2021	93	93	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+606241	18/08/2021	-	93	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Delirium, Pneumonia
+669674	23/11/2021	93	93	Female	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Electrocardiogram abnormal, Malaise, Obstructive shock, Oedema peripheral, Organ failure, Pleural effusion, Pulmonary embolism, Rectal haemorrhage, Weight increased
+529039	30/03/2021	94	94	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Respiratory rate increased
+535669	12/04/2021	94	94	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia
+537952	15/04/2021	94	94	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain, Arthralgia, Back pain, Pain in extremity, Platelet count decreased, Pulmonary embolism, Thrombosis, Vomiting
+540031	19/04/2021	94	94	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident, Choking, Loss of consciousness
+542243	22/04/2021	94	94	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+555216	No match		94			
+556062	20/05/2021	94	94	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hyperhidrosis, Oxygen saturation decreased
+562988	3/06/2021	94	94	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness, Hypotension
+565833	9/06/2021	94	94	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Rash, Rectal haemorrhage
+572665	22/06/2021	94	94	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture
+576259	No match		94			
+577131	29/06/2021	94	94	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Intestinal ischaemia, Platelet count decreased
+579121	2/07/2021	94	94	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Delirium, Dyspnoea, Fatigue, Hypophagia, Parainfluenzae virus infection, Pyrexia, Tachycardia
+583020	9/07/2021	94	94	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia
+610007	24/08/2021	-	94	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Organ failure, Sepsis
+672528	26/11/2021	94	94	Female	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain, Cough, Pleural effusion
+680694	11/12/2021	94	94	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebellar infarction, Cerebral infarction, Pulmonary embolism
+521789	6/03/2021	95	95	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, Trade name not specified (trimethoprim) - Suspected	Unresponsive to stimuli
+522414	11/03/2021	95	95	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Diabetic ketoacidosis, Urosepsis
+532108	6/04/2021	95	95	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial fibrillation, Cerebrovascular accident, Gallbladder mass, Nausea, Pulmonary embolism, Tachypnoea, Vomiting
+536365	13/04/2021	95	95	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+538631	16/04/2021	95	95	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite
+542230	22/04/2021	95	95	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+543239	26/04/2021	95	95	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory distress, Vomiting
+546183	30/04/2021	95	95	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Thrombotic stroke
+547083	3/05/2021	95	95	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	General physical health deterioration, Myocardial infarction
+548513	6/05/2021	95	95	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Sepsis
+554672	No match		95			
+554717	No match		95			
+557543	24/05/2021	95	95	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Constipation, Hypervolaemia, Respiratory failure
+558781	26/05/2021	95	95	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dehydration, Dyspnoea, Heart rate increased
+563552	No match		95			
+608051	20/08/2021	95	95	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+682354	15/12/2021	95	95	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea
+698345	21/01/2022	95	95	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected, COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Myocardial infarction, Vaccination failure
+524247	19/03/2021	96	96	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia viral
+536534	13/04/2021	96	96	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pyrexia
+538635	16/04/2021	96	96	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation, Death, Malaise
+540132	19/04/2021	96	96	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+546508	2/05/2021	96	96	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Terminal state
+559992	28/05/2021	-	96	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain, Abdominal rigidity, Abdominal tenderness, Acidosis, Blood pressure decreased, Coma scale abnormal, General physical health deterioration, Haemodynamic instability, Hypophagia, Hypotension, Hypothermia, Malaise, Peripheral circulatory failure, Peripheral coldness
+561020	31/05/2021	96	96	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acquired haemophilia
+561920	1/06/2021	96	96	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis, Concomitant disease progression, Urinary tract infection
+562466	2/06/2021	96	96	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Hypothermia
+529022	30/03/2021	97	97	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Unresponsive to stimuli
+542196	22/04/2021	97	97	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+569819	17/06/2021	-	97	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite, Fatigue
+585166	13/07/2021	97	97	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction, Eye haemorrhage, Fibrin D dimer increased, Immune thrombocytopenia, Subdural haemorrhage
+521153	3/03/2021	98	98	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite
+557942	25/05/2021	98	98	Not Specified	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+597613	No match		98			
+598893	6/08/2021	98	98	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall, General physical health deterioration, Lethargy, Syncope
+600986	10/08/2021	98	98	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Confusional state, Disorientation, Pneumonia aspiration, Seizure
+551017	11/05/2021	99	99	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia aspiration
+558047	25/05/2021	99	99	Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac failure, Pulmonary oedema
+599727	9/08/2021	99	99	Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident, Fall
+534410	9/04/2021	100	99	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, General physical health deterioration, Malaise, Oxygen saturation decreased, Pulmonary congestion
+534761	No match		100			
+538633	16/04/2021	100	100	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Malaise
+540595	20/04/2021	100	100	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression
+543311	26/04/2021	100	100	Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+544822	28/04/2021	100	100	Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident
+544400	28/04/2021	-		Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis, Dyspnoea, Pulmonary embolism
+547782	4/05/2021	-		Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea, Pyrexia
+552876	14/05/2021	-		Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea
+562975	No match					
+563009	3/06/2021	-		Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Cerebral infarction
+565717	9/06/2021	-		Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Thrombosis
+568816	15/06/2021	-		Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation
+571413	No match					
+591215	23/07/2021	-		Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction
+593828	28/07/2021	-		Not Specified	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+593870	28/07/2021	-		Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction
+594990	No match					
+600407	No match					
+618647	No match					
+621253	9/09/2021	-		Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+631086	24/09/2021	-		Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture
+635326	1/10/2021	-		Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Cerebrovascular accident
+644718	15/10/2021	-		Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocarditis
+652587	No match					
+660605	8/11/2021	-		Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+660925	No match					
+666031	17/11/2021	-		Not Specified	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Illness
+666299	17/11/2021	-		Male	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis
+673114	29/11/2021	-		Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Myocardial infarction
+675731	2/12/2021	-		Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+677821	6/12/2021	-		Female	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blood urine present, Concomitant disease progression, Extensive swelling of vaccinated limb
+678201	7/12/2021	-		Male	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation
+684611	20/12/2021	-		Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+684616	20/12/2021	-		Not Specified	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident
+687813	27/12/2021	-		Not Specified	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+693720	13/01/2022	-		Female	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
+694426	14/01/2022	-		Male	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation
