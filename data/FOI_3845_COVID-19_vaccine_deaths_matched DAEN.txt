@@ -1,0 +1,890 @@
+734187	10/05/2022	5	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Cardiac arrest Eosinophilia Eosinophilic myocarditis Death
+719838	11/03/2022	7	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Generalised tonic-clonic seizure Death
+724023	25/03/2022	9	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+733723	6/05/2022	10	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+647663	20/10/2021	14	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Brain injury Cardiac arrest Dizziness Headache Multiple organ dysfunction syndrome Nausea Pyrexia Death
+695048	15/01/2022	15	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Head banging Death
+616124	2/09/2021	17	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Malaise Myocarditis Death
+651140	27/10/2021	18	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac disorder Headache Pain in extremity Respiratory disorder Death
+714451	25/02/2022	19	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+631625	25/09/2021	19	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Blood fibrinogen increased Brain hypoxia Cardiac arrest Haemoglobin decreased Red blood cell count decreased Death
+729612	13/04/2022	20	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+644353	15/10/2021	20	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Palpitations Death
+729139	12/04/2022	21	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected	Abdominal pain Cardiac arrest Cardiogenic shock Echocardiogram abnormal Fatigue Femoral artery embolism Malaise Myocardial infarction Myocarditis Nausea Paraesthesia Peripheral ischaemia Pyrexia Renal impairment Spinal cord infarction Troponin increased Ventricular dysfunction Death
+644148	14/10/2021	21	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Bexsero AUST R 190719 (Neisseria meningitidis Group B Factor H Binding Protein fusion protein; Neisseria meningitidis Group B Neisseria Adhesin A protein; Neisseria meningitidis Group B Neisseria Heparin Binding Antigen fusion protein; Neisseria meningitidis serogroup B outer membrane vesicles) - Not suspected	Cardiac arrest Concomitant disease aggravated Malaise Pulmonary hypertension Pyrexia Death
+685337	21/12/2021	23	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiomegaly Malaise Personality change Death
+718277	7/03/2022	24	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Cardiac arrest Death
+736431	20/05/2022	28	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+666320	17/11/2021	29	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery thrombosis Death
+598795	6/08/2021	29	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Death
+655018	3/11/2021	30	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Agonal respiration Chest pain Costochondritis Myopericarditis Troponin T Death
+642977	13/10/2021	30	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pulmonary embolism Death
+571893	21/06/2021	32	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Pulmonary embolism Death
+734407	10/05/2022	33	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+676189	2/12/2021	33	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Road traffic accident Syncope Death
+737281	25/05/2022	34	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+595824	1/08/2021	34	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral venous sinus thrombosis Coma scale abnormal Fibrin D dimer increased Haemorrhagic transformation stroke Headache Intracranial pressure increased Neck pain Thrombocytopenia Thrombosis with thrombocytopenia syndrome Death
+666360	17/11/2021	35	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (amisulpride) - Not suspected	Adverse event following immunisation Myocarditis Death
+669765	23/11/2021	37	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Coronary artery disease Death
+739996	8/06/2022	38	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+663471	12/11/2021	39	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Carotid artery dissection Cerebrovascular accident Haemorrhage intracranial Migraine Neck pain Sensory disturbance Vasculitis Visual impairment Death
+736486	21/05/2022	40	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Decreased appetite Haematuria Headache Malaise Multiple organ dysfunction syndrome Myalgia Ovarian cancer Pain in extremity Septic shock Tachycardia Vomiting Death
+538825	16/04/2021	40	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Cardiac arrest Dyspnoea Pulmonary embolism Sepsis Vomiting Death
+537472	14/04/2021	40	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Lexapro (escitalopram) - Not suspected Valium (diazepam) - Not suspected Zypine (olanzapine) - Not suspected Zyprexa Zydis (olanzapine) - Not suspected	Decreased appetite Ischaemic cardiomyopathy Night sweats Pyrexia Urinary incontinence Death
+617068	3/09/2021	41	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+731953	27/04/2022	42	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Brain injury Encephalitis enteroviral Death
+635916	1/10/2021	42	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Chills Decreased appetite Hot flush Nausea Death
+615803	1/09/2021	42	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Death
+602379	12/08/2021	42	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Headache Hypoxic-ischaemic encephalopathy Death
+592806	27/07/2021	42	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Cough Dyspnoea Death
+651374	27/10/2021	43	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atypical pneumonia Cardiac arrest Chest pain Dyspnoea Fibrin D dimer increased Liver function test abnormal Pyrexia Death
+560741	31/05/2021	43	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+713726	24/02/2022	44	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Atorvastatin (atorvastatin calcium propylene glycol solvate) - Not suspected Benztropine Mesylate (benzatropine mesilate) - Not suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected Citalopram (citalopram hydrobromide) - Not suspected Clopixol Depot (zuclopenthixol decanoate) - Not suspected Metformin (metformin hydrochloride) - Not suspected	Completed suicide Malaise Death
+704505	2/02/2022	44	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+687834	27/12/2021	44	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Blood lactic acid C-reactive protein increased Influenza like illness Myocarditis Parvovirus B19 test positive Pyrexia Syncope Thrombocytopenia Troponin I Ventricular fibrillation pH body fluid Death
+644735	15/10/2021	44	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Dyspnoea Fibrin D dimer increased Pulmonary embolism Pyrexia Thrombocytopenia Thrombosis Death
+613371	30/08/2021	44	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+610431	25/08/2021	44	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Headache Injection site pain Lethargy Myocardial ischaemia Nasopharyngitis Death
+586554	15/07/2021	44	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased Haemorrhage intracranial Hepatic infarction Intestinal infarction Pulmonary embolism Splenic infarction Thrombocytopenia Thrombosis with thrombocytopenia syndrome Death
+727798	6/04/2022	45	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+652222	28/10/2021	45	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest discomfort Electrocardiogram Malaise Myocardial infarction Pulmonary embolism Death
+640350	8/10/2021	45	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Chest pain Dyspnoea Headache Subarachnoid haemorrhage Death
+611057	26/08/2021	45	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis coronary artery Myocardial fibrosis Death
+605823	18/08/2021	45	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Influvac Tetra (Influenza virus haemagglutinin) - Not suspected	Cerebrovascular accident Vertebral artery dissection Death
+555334	19/05/2021	45	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+717851	7/03/2022	46	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Candesartan (candesartan cilexetil) - Not suspected	Cardiac arrest Chest pain Multiple organ dysfunction syndrome Neck pain Pain in jaw Pneumonia aspiration Death
+631624	25/09/2021	46	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute pulmonary oedema Atrial fibrillation Cardiogenic shock Fibrin D dimer increased Hyponatraemia Joint swelling Liver function test abnormal Lung abscess Multiple organ dysfunction syndrome Orthopnoea Pleural effusion Productive cough Sepsis Tachycardia Death
+571916	21/06/2021	46	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+515141	21/12/2020	46	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Revestive (teduglutide) - Suspected	Abdominal discomfort Abdominal distension Abdominal pain Adverse event following immunisation Arthritis Arthritis bacterial Bacteraemia Drug ineffective Dyspnoea exertional Endocarditis Fatigue Fluid retention Gastrointestinal stoma output abnormal Gastrointestinal stoma output decreased Headache Hepatomegaly Hunger Hypervolaemia Hypotension Inappropriate schedule of product administration Incorrect dose administered Intestinal ischaemia Joint swelling Lethargy Liver function test abnormal Lower respiratory tract infection Malaise Myalgia Nausea Peripheral swelling Pneumonia Rash Renal failure Sepsis Splenomegaly Therapeutic product effect decreased Thirst Tooth infection Urine output decreased Vomiting Weight increased Death
+727217	5/04/2022	47	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (melatonin) - Not suspected Trade name not specified (temazepam) - Not suspected	Affective disorder Asthenia Chest pain Completed suicide Fatigue Feeling abnormal Insomnia Tinnitus Weight decreased Death
+721483	17/03/2022	47	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+738905	3/06/2022	48	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+722440	21/03/2022	48	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+686483	22/12/2021	48	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Dyspnoea Hallucination Death
+638636	6/10/2021	48	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain upper Aneurysm ruptured Seizure Death
+620700	9/09/2021	48	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased Immune thrombocytopenia Pulmonary embolism SARS-CoV-2 test positive Death
+585318	13/07/2021	48	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage Cerebral venous sinus thrombosis Fibrin D dimer increased Headache Herpes zoster Thrombocytopenia Thrombosis with thrombocytopenia syndrome Death
+537212	14/04/2021	48	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Antiphospholipid syndrome Embolism Fibrin D dimer increased Multiple organ dysfunction syndrome Pulmonary embolism Renal ischaemia Thrombocytopenia Thrombosis Thrombosis with thrombocytopenia syndrome Visceral venous thrombosis Death
+731225	22/04/2022	49	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+714456	25/02/2022	49	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Chest pain Oropharyngeal pain Troponin I Death
+703118	31/01/2022	49	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation Brain oedema Cerebrovascular accident Death
+662238	10/11/2021	49	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Pneumonia Respiratory failure Death
+611939	27/08/2021	49	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+584829	13/07/2021	49	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Myalgia Presyncope Death
+730673	20/04/2022	50	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+725496	30/03/2022	50	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Brain oedema Headache Death
+637921	5/10/2021	50	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Respiratory acidosis Death
+625386	16/09/2021	50	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Myocardial infarction Myoclonus Ventricular tachycardia Death
+598785	6/08/2021	50	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+597267	3/08/2021	50	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Syncope Thrombocytopenia Death
+595770	1/08/2021	50	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Headache Hypoxic-ischaemic encephalopathy Immune-mediated encephalitis Pneumonia aspiration Seizure Vomiting Death
+575852	26/06/2021	50	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Cerebral infarction Fibrin D dimer increased Pain in extremity Platelet count decreased Pulmonary embolism Death
+546170	30/04/2021	50	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Malaise Pulmonary embolism Death
+722927	22/03/2022	51	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Deep vein thrombosis Fibrin D dimer increased Respiratory failure Sepsis Death
+709938	14/02/2022	51	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Paraesthesia Penile swelling Peripheral swelling Death
+666439	17/11/2021	51	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Diarrhoea Pneumonia SARS-CoV-2 antibody test positive Death
+624541	15/09/2021	51	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Fosamax Plus D-Cal (alendronate sodium; calcium carbonate; colecalciferol) - Not suspected Mogadon (nitrazepam) - Not suspected Stilnox (zolpidem tartrate) - Not suspected Thiamine (thiamine hydrochloride) - Not suspected	Adverse event following immunisation Death
+586732	15/07/2021	51	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Nasopharyngitis Death
+737282	25/05/2022	52	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+736004	18/05/2022	52	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+733335	4/05/2022	52	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Aspiration Asthenia Blood creatine phosphokinase increased Lethargy Metabolic acidosis Muscular weakness Myopathy Myositis Pneumonia Renal failure Rhabdomyolysis Death
+729614	13/04/2022	52	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+673150	29/11/2021	52	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Myocardial ischaemia Death
+632351	27/09/2021	52	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Subarachnoid haemorrhage Troponin I increased Death
+598851	6/08/2021	52	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Cough Dyspnoea Groin pain Malaise Myocardial infarction Myocarditis Death
+565804	9/06/2021	52	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage Cerebral venous sinus thrombosis Fibrin D dimer increased Headache Platelet count decreased Thrombocytopenia Thrombosis with thrombocytopenia syndrome Death
+558636	26/05/2021	52	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Influenza Vaccine (TNS) (Influenza virus haemagglutinin) - Suspected	Adverse event following immunisation Death
+738569	2/06/2022	53	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute pulmonary oedema Haemophagocytic lymphohistiocytosis Influenza A virus test positive Renal failure Death
+721153	17/03/2022	53	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+692010	10/01/2022	53	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiomegaly Chest discomfort Chest pain Dyspnoea Pulmonary embolism Death
+682371	15/12/2021	53	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+666237	17/11/2021	53	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Pericardial effusion Troponin abnormal Death
+654681	2/11/2021	53	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Dyspnoea Malaise Myocardial ischaemia Death
+626171	17/09/2021	53	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhage intracranial Death
+740787	14/06/2022	54	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Haemorrhagic stroke Systolic hypertension Death
+681341	13/12/2021	54	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiomegaly Death
+665298	16/11/2021	54	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiogenic shock Concomitant disease aggravated Death
+654668	2/11/2021	54	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Cardiac failure congestive Hypertensive heart disease Death
+653923	1/11/2021	54	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+648942	22/10/2021	54	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Amnesia Cerebrovascular accident Dysarthria Inappropriate schedule of product administration Myocardial fibrosis Tremor Vaccination error Death
+648930	22/10/2021	54	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intracranial aneurysm Subarachnoid haemorrhage Death
+615369	1/09/2021	54	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Concomitant disease aggravated Headache Nausea Pain Vomiting Death
+615211	1/09/2021	54	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral artery thrombosis Cerebral infarction Fibrin D dimer increased Headache Hyperhidrosis Myalgia Pyrexia Thrombocytopenia Thrombosis with thrombocytopenia syndrome Troponin I increased Death
+565173	8/06/2021	54	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Chest pain Vomiting Death
+565088	8/06/2021	54	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Mesenteric vein thrombosis Death
+738686	2/06/2022	55	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+722441	21/03/2022	55	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+711575	18/02/2022	55	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Arteriosclerosis coronary artery Cardiac arrest Coronary artery thrombosis Dizziness Fatigue Hyperhidrosis Death
+561253	31/05/2021	55	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+556577	21/05/2021	55	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Carotid artery thrombosis Pulmonary embolism Death
+542174	22/04/2021	55	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Heparin-induced thrombocytopenia test positive Pulmonary embolism Thrombocytopenia Death
+738131	30/05/2022	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis Renal failure Death
+714469	25/02/2022	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+713968	24/02/2022	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Malaise Pericarditis Death
+655394	3/11/2021	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+644868	15/10/2021	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+626642	17/09/2021	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Pain in extremity Death
+609817	24/08/2021	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dysphagia Dyspnoea Malaise Vomiting Death
+604158	16/08/2021	56	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction Chills Death
+577432	30/06/2021	56	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Blood glucose decreased Death
+554665	18/05/2021	56	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Respiratory arrest Death
+549442	7/05/2021	56	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Buprenorphine (buprenorphine hydrochloride) - Not suspected Endep (amitriptyline hydrochloride) - Not suspected Trade name not specified (Product not coded) - Not suspected	Adverse event following immunisation Death
+655075	3/11/2021	57	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Toxicity to various agents Vascular stent thrombosis Death
+635457	1/10/2021	57	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+633189	28/09/2021	57	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic dissection Chest pain Cyanosis Fibrin D dimer increased Hyperhidrosis Hypertension Pain in extremity Seizure Death
+582919	9/07/2021	57	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Crestor (rosuvastatin calcium) - Not suspected Eutroxsig (levothyroxine sodium) - Not suspected	Concomitant disease progression Paraesthesia Death
+565884	9/06/2021	57	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiomegaly Death
+565261	8/06/2021	57	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Injection site pain Death
+548780	6/05/2021	57	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Body temperature increased Deep vein thrombosis Dyspnoea Electrocardiogram Headache Hyperglycaemia Loss of consciousness Pulmonary embolism Tachycardia Tachypnoea Death
+742513	27/06/2022	58	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+712335	21/02/2022	58	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Cold sweat Hypertensive heart disease Myocardial ischaemia Vomiting Death
+709421	12/02/2022	58	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Nausea Vomiting Death
+690477	6/01/2022	58	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial ischaemia Death
+673255	29/11/2021	58	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Epistaxis Haematemesis Haemorrhage Death
+655005	3/11/2021	58	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Back pain Blood fibrinogen increased Cerebellar infarction Cerebral infarction Chest pain Endocarditis Fibrin D dimer increased Headache Hyperhidrosis Lymphadenopathy Multiple organ dysfunction syndrome Pyrexia Splenomegaly Staphylococcal sepsis Thrombocytopenia Troponin increased Vomiting Death
+636053	2/10/2021	58	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Dyspnoea Fibrin D dimer increased Death
+614324	30/08/2021	58	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Dizziness Death
+585942	14/07/2021	58	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Fibrin D dimer Death
+580759	6/07/2021	58	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Back pain Headache Ruptured cerebral aneurysm Subarachnoid haemorrhage Death
+554589	18/05/2021	58	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+727971	7/04/2022	59	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation Atrioventricular block complete Cardiac arrest Chest pain Electrocardiogram ST segment depression Myocarditis Pericarditis Troponin increased Death
+648928	22/10/2021	59	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+613712	30/08/2021	59	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral artery thrombosis Cerebrovascular accident Fibrin D dimer increased Hydrocephalus Thrombocytopenia Thrombosis with thrombocytopenia syndrome Death
+586021	14/07/2021	59	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiogenic shock Cardiomyopathy Congestive hepatopathy Giant cell myocarditis Hyponatraemia Metabolic acidosis Multiple organ dysfunction syndrome Syncope Thrombosis Death
+583922	12/07/2021	59	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Death
+570805	18/06/2021	59	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Pulmonary embolism Death
+562970	3/06/2021	59	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+671307	25/11/2021	60	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain Dyspnoea Fibrin D dimer increased Hepatic failure Oxygen saturation decreased Peripheral swelling Pulmonary embolism Renal failure Renal infarct Respiratory failure Splenic infarction Thrombocytopenia Thrombosis Troponin increased Death
+617841	5/09/2021	60	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Chest pain Dyspnoea Myocardial ischaemia Death
+603987	16/08/2021	60	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Pneumonia Pulmonary embolism Death
+598769	6/08/2021	60	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Diarrhoea Malaise Pyrexia Tachypnoea Vomiting Death
+590714	22/07/2021	60	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Deep vein thrombosis Pulmonary embolism Death
+581649	7/07/2021	60	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cognitive disorder Concomitant disease aggravated Decreased appetite Lethargy Death
+569553	16/06/2021	60	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Haemorrhage intracranial Death
+565715	9/06/2021	60	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute cardiac event Pulmonary embolism Death
+557017	23/05/2021	60	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+738687	2/06/2022	61	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+721150	17/03/2022	61	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected Nurofen (ibuprofen) - Not suspected Trade name not specified (celecoxib) - Not suspected Trade name not specified (oxycodone) - Not suspected	Cardiac arrest Cold sweat Dyspnoea Pallor Pulmonary embolism Death
+719134	9/03/2022	61	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+681338	13/12/2021	61	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic dissection rupture Pericardial haemorrhage Death
+604900	17/08/2021	61	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Multiple organ dysfunction syndrome Pneumonia Septic shock Death
+593456	27/07/2021	61	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected COMIRNATY COVID-19 vaccine (tozinameran) - Not suspected	Abdominal pain Blood fibrinogen increased Colitis Fibrin D dimer increased Portal vein thrombosis Syncope Thrombosis with thrombocytopenia syndrome Vomiting Death
+590425	22/07/2021	61	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Citalopram (citalopram hydrobromide) - Not suspected Trade name not specified (fenofibrate) - Not suspected Trade name not specified (gliclazide) - Not suspected Trade name not specified (mesalazine) - Not suspected Trade name not specified (pregabalin) - Not suspected Trade name not specified (risperidone) - Not suspected Trade name not specified (simvastatin) - Not suspected	Cerebrovascular accident Death
+575228	25/06/2021	61	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected APO-Metformin (metformin hydrochloride) - Not suspected APO-Telmisartan (hydrochlorothiazide; telmisartan) - Not suspected Apotex Rosuvastatin (rosuvastatin calcium) - Not suspected FluQuadri Vaccine (Influenza virus haemagglutinin) - Not suspected Trade name not specified (aspirin) - Not suspected	Blood blister Cerebral haemorrhage Epistaxis Haematemesis Headache Immune thrombocytopenia Petechiae Rhinitis Somnolence Thrombocytopenia Vomiting Death
+562888	3/06/2021	61	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+731221	22/04/2022	62	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+729694	14/04/2022	62	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+695164	16/01/2022	62	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Nexium (esomeprazole) - Suspected	Concomitant disease progression Injection site pain Pain Vomiting Death
+649867	25/10/2021	62	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aortic dissection Chest pain Death
+636312	2/10/2021	62	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chills Concomitant disease progression Pyrexia Retching Death
+618181	6/09/2021	62	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea Fatigue Headache Hot flush Myocardial ischaemia Death
+590275	22/07/2021	62	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+583981	12/07/2021	62	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+582443	8/07/2021	62	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Vaccination error Death
+577528	30/06/2021	62	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intraventricular haemorrhage Death
+576017	27/06/2021	62	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+565897	9/06/2021	62	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Death
+538648	16/04/2021	62	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Injection site reaction Death
+736008	18/05/2022	63	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+729613	13/04/2022	63	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+680111	9/12/2021	63	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+677285	5/12/2021	63	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Constipation Cough Death
+647153	20/10/2021	63	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased Hypercapnia Respiratory failure Thrombocytopenia Death
+636642	3/10/2021	63	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Fibrin D dimer increased Hyperglycaemia Hypoxia Pneumonia Pulmonary embolism SARS-CoV-2 test positive Sepsis Thrombocytopenia Vision blurred Death
+610491	25/08/2021	63	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Atorvastatin (atorvastatin calcium propylene glycol solvate) - Not suspected Coveram (amlodipine besilate; perindopril arginine) - Not suspected Trade name not specified (apixaban) - Not suspected Trade name not specified (moxonidine) - Not suspected Xigduo XR (dapagliflozin propanediol monohydrate; metformin hydrochloride) - Not suspected	Cardiac arrest Meningitis pneumococcal Septic shock Streptococcus test positive Death
+573810	23/06/2021	63	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Altered state of consciousness Hepatic failure Multiple organ dysfunction syndrome Oedema peripheral Pain in extremity Pruritus Death
+540014	19/04/2021	63	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Bisoprolol (bisoprolol fumarate) - Not suspected Metformin (metformin hydrochloride) - Not suspected Novomix 30 (Insulin aspart) - Not suspected Rosuvastatin (rosuvastatin calcium) - Not suspected Trade name not specified (apixaban) - Not suspected Trade name not specified (empagliflozin) - Not suspected Trade name not specified (irbesartan) - Not suspected Trade name not specified (pantoprazole) - Not suspected	Abdominal pain Acute disseminated encephalomyelitis Fatigue Death
+736234	20/05/2022	64	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Asthenia Blood magnesium decreased Concomitant disease progression Decreased appetite Dyspnoea Fatigue Myalgia Pain in extremity Pulmonary oedema Ventricular tachycardia Death
+735475	16/05/2022	64	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Coma scale abnormal Fall Hypoxia Death
+720798	16/03/2022	64	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Dry skin Fatigue Flushing Haemorrhage intracranial Headache Hypertension Malaise Rash Skin discolouration Tinnitus Vomiting Death
+714464	25/02/2022	64	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+670217	23/11/2021	64	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Death
+660545	8/11/2021	64	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute pulmonary oedema Cardiac failure Ischaemic stroke Death
+658344	4/11/2021	64	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Concomitant disease aggravated Myocarditis Palpitations Death
+633133	28/09/2021	64	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aspiration Colitis Haematemesis Spontaneous bacterial peritonitis Vomiting Death
+625161	16/09/2021	64	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Cardiac arrest Malaise Pneumonia Death
+613462	30/08/2021	64	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+593330	27/07/2021	64	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+577072	29/06/2021	64	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Deep vein thrombosis Ischaemic stroke Death
+575276	25/06/2021	64	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Fatigue Pulmonary embolism Death
+568584	15/06/2021	64	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism Death
+552088	13/05/2021	64	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+718925	9/03/2022	65	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Cardiac arrest Chest pain Dizziness Fatigue Hyperhidrosis Myocarditis Death
+672776	28/11/2021	65	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Ventolin (salbutamol) - Not suspected	Cerebrovascular accident Death
+647034	19/10/2021	65	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Basal ganglia haemorrhage Gastrointestinal haemorrhage Hypertension Death
+643592	14/10/2021	65	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal discomfort Coronary artery disease Cyanosis Lethargy Malaise Pallor Death
+627211	19/09/2021	65	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Decreased appetite Deep vein thrombosis Myoclonus Pulmonary embolism Somnolence Thrombocytopenia Vomiting Death
+621287	9/09/2021	65	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Atorvastatin (atorvastatin calcium propylene glycol solvate) - Not suspected Coveram (amlodipine besilate; perindopril arginine) - Not suspected Metformin (metformin hydrochloride) - Not suspected	Adverse event following immunisation Death
+606577	19/08/2021	65	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Chest pain Fibrin D dimer increased Seizure Sepsis Syncope Thrombocytopenia Death
+596892	3/08/2021	65	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism Death
+584827	13/07/2021	65	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+557335	24/05/2021	65	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+547096	3/05/2021	65	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Death
+543839	27/04/2021	65	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhage intracranial Death
+543252	26/04/2021	65	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Congestive cardiomyopathy Death
+715290	28/02/2022	66	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac failure Death
+713070	22/02/2022	66	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Cardiac failure Concomitant disease aggravated Death
+667316	18/11/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+654653	2/11/2021	66	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure congestive Hypertensive heart disease Death
+649510	24/10/2021	66	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Concomitant disease aggravated Dyspnoea Headache Myalgia Pyrexia Respiratory failure Death
+614690	31/08/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Duodart 500/400 (dutasteride; tamsulosin hydrochloride) - Not suspected Ventolin CFC-free Inhaler (salbutamol sulfate) - Not suspected	Cerebral haematoma Concomitant disease progression Headache Death
+606351	18/08/2021	66	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Haemoptysis Pyrexia Respiratory failure Death
+587072	15/07/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Pulmonary embolism Death
+587068	15/07/2021	66	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+585324	13/07/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Arteriosclerosis coronary artery Death
+584645	13/07/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Seasonal allergy Death
+563542	4/06/2021	66	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+562554	2/06/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ageusia Anosmia Asthenia Cough Dizziness Fibrin D dimer increased Guillain-Barre syndrome Headache Lethargy Paraesthesia Rash Death
+555329	19/05/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Death
+552086	13/05/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+543388	26/04/2021	66	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Circulatory collapse Dyspnoea Nausea Vomiting Death
+654671	2/11/2021	67	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+623386	13/09/2021	67	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiovascular disorder Death
+622885	13/09/2021	67	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+622436	11/09/2021	67	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Ardix Gliclazide 60mg MR (gliclazide) - Not suspected Cartia (aspirin) - Not suspected Ferrograd C (ferrous sulfate; sodium ascorbate) - Not suspected Lipitor (atorvastatin calcium) - Not suspected Metex XR (metformin hydrochloride) - Not suspected Minax (metoprolol tartrate) - Not suspected Salpraz (pantoprazole) - Not suspected Span-k (potassium chloride) - Not suspected Uremide (furosemide (frusemide)) - Not suspected	Cerebrovascular accident Concomitant disease aggravated Myocardial ischaemia Syncope Death
+618187	6/09/2021	67	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+613030	29/08/2021	67	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Sepsis Death
+612536	27/08/2021	67	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute disseminated encephalomyelitis Bickerstaff's encephalitis Guillain-Barre syndrome Death
+606986	19/08/2021	67	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Dyspnoea Influenza like illness Rhinorrhoea Death
+583035	9/07/2021	67	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+569882	17/06/2021	67	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+561794	1/06/2021	67	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Subarachnoid haemorrhage Death
+561193	31/05/2021	67	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+546880	3/05/2021	67	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Cardiac arrest Myocardial ischaemia Death
+521667	5/03/2021	67	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+734522	11/05/2022	68	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Acetylsalicylic acid (aspirin) - Not suspected Antenex (diazepam) - Not suspected Cenovis Multivitamin & Minerals (ascorbic acid; calcium hydrogen phosphate dihydrate; calcium pantothenate; colecalciferol; cupric sulfate; cyanocobalamin; dl-alpha-tocopheryl acetate; ferrous fumarate; heavy magnesium oxide; manganese sulfate monohydrate; nicotinamide; potassium iodide; potassium sulfate; pyridoxine hydrochloride; retinol acetate; riboflavine; thiamine nitrate; zinc oxide) - Not suspected EMEXLON (metoclopramide hydrochloride) - Not suspected Megafol (folic acid) - Not suspected Neulasta (Pegfilgrastim) - Not suspected Noxicid (esomeprazole) - Not suspected Panadeine Forte (codeine phosphate hemihydrate; paracetamol) - Not suspected Targin (naloxone hydrochloride dihydrate; oxycodone hydrochloride) - Not suspected Trade name not specified (carboplatin) - Not suspected Trade name not specified (cyanocobalamin) - Not suspected Trade name not specified (dexamethasone) - Not suspected Trade name not specified (loperamide hydrochloride) - Not suspected Trade name not specified (metoclopramide hydrochloride) - Not suspected Trade name not specified (mirtazapine) - Not suspected Trade name not specified (naproxen) - Not suspected Trade name not specified (pemetrexed) - Not suspected Trade name not specified (temazepam) - Not suspected Trelegy Ellipta (fluticasone furoate; umeclidinium bromide; vilanterol trifenatate) - Not suspected	Chest pain Dyspnoea Fibrin D dimer increased Gait inability Malaise Oxygen saturation decreased Pleural effusion Pulmonary embolism Thrombocytopenia Death
+714449	25/02/2022	68	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+688848	31/12/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Cerebral infarction Multiple organ dysfunction syndrome Death
+668656	20/11/2021	68	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Fatigue Myocardial ischaemia Tachycardia Death
+664467	15/11/2021	68	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	COVID-19 Cellulitis Concomitant disease aggravated Death
+647812	21/10/2021	68	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Bradycardia Concomitant disease progression Hypotension Troponin abnormal Death
+636307	2/10/2021	68	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial fibrillation Bradycardia Concomitant disease progression Dyspnoea Hypotension Lethargy Death
+630936	24/09/2021	68	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	C-reactive protein increased Haemoglobin decreased Intestinal obstruction Platelet count increased Pneumonitis aspiration Pulmonary embolism Vomiting White blood cell count increased Death
+623380	13/09/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+590090	22/07/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Death
+585735	14/07/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease Death
+577489	30/06/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Diarrhoea Malaise Death
+567288	11/06/2021	68	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+563050	3/06/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+560506	30/05/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Death
+558227	25/05/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Diabetic ketoacidosis End stage renal disease Myocardial infarction Death
+557262	24/05/2021	68	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+544823	28/04/2021	68	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Loss of consciousness Pneumonia Seizure Staphylococcal infection Death
+731906	27/04/2022	69	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation Cerebrovascular accident Death
+731222	22/04/2022	69	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+662528	10/11/2021	69	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Myocardial infarction Death
+652908	29/10/2021	69	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Death
+638642	6/10/2021	69	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+633266	28/09/2021	69	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure Death
+618211	6/09/2021	69	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Death
+613895	30/08/2021	69	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Coloxyl With Senna (docusate sodium; sennosides) - Not suspected Endone (oxycodone hydrochloride) - Not suspected Metformin (metformin hydrochloride) - Not suspected Rosuvastatin (rosuvastatin calcium) - Not suspected Targin (naloxone hydrochloride dihydrate; oxycodone hydrochloride) - Not suspected Trade name not specified (Macrogol) - Not suspected Trade name not specified (colecalciferol) - Not suspected Trade name not specified (fenofibrate) - Not suspected Trade name not specified (linagliptin) - Not suspected Trade name not specified (magnesium) - Not suspected Trade name not specified (mirtazapine) - Not suspected Trade name not specified (omeprazole) - Not suspected Trade name not specified (paracetamol) - Not suspected Trade name not specified (pregabalin) - Not suspected Trade name not specified (risperidone) - Not suspected	Urosepsis Death
+608638	22/08/2021	69	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coma scale abnormal Headache Hypertensive emergency Ruptured cerebral aneurysm Subarachnoid haemorrhage Death
+572757	22/06/2021	69	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Chest pain Death
+568802	15/06/2021	69	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Disseminated intravascular coagulation Meningococcal sepsis Death
+565016	8/06/2021	69	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+563055	3/06/2021	69	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Malaise Myocardial ischaemia Pain in extremity Death
+558587	26/05/2021	69	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+548356	5/05/2021	69	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Dyspnoea Pyrexia Somnolence Death
+543358	26/04/2021	69	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Sepsis Urinary tract infection Death
+716069	2/03/2022	70	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction Death
+688431	30/12/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Malaise Death
+683978	17/12/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acquired haemophilia Myocardial ischaemia Renal failure Respiratory failure Sepsis Death
+651672	27/10/2021	70	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia Death
+629365	22/09/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dizziness Headache Intracranial aneurysm Subarachnoid haemorrhage Death
+610581	25/08/2021	70	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+602737	13/08/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Coronary artery disease Death
+579162	2/07/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Warfarin (warfarin sodium) - Suspected	Abdominal pain upper Atrial fibrillation Epistaxis Heart rate increased Hypotension International normalised ratio increased Subdural haematoma Death
+572797	22/06/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Condition aggravated Immune thrombocytopenia Platelet count abnormal Death
+566936	11/06/2021	70	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain Concomitant disease progression Dyspnoea Death
+563126	3/06/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Herceptin (Trastuzumab) - Suspected Perjeta (Pertuzumab) - Suspected	Adverse event following immunisation Death
+563002	3/06/2021	70	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Deep vein thrombosis Pulmonary thrombosis Death
+558689	26/05/2021	70	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+554700	18/05/2021	70	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Gastrointestinal haemorrhage Death
+554165	17/05/2021	70	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+554087	17/05/2021	70	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Dyspnoea Food refusal Oxygen saturation decreased Death
+548152	5/05/2021	70	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Death
+539141	16/04/2021	70	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Lethargy Respiratory failure Death
+737455	26/05/2022	71	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+720115	14/03/2022	71	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Cardiac failure Vaccine breakthrough infection Death
+715291	28/02/2022	71	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+654651	2/11/2021	71	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral haemorrhage Death
+642780	13/10/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease Death
+625997	16/09/2021	71	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+619579	7/09/2021	71	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Asthenia Cerebrovascular accident Death
+606973	19/08/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+596030	2/08/2021	71	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Hypopnoea Death
+584834	13/07/2021	71	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Hypertensive heart disease Ischaemia Death
+568784	15/06/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Hepatorenal failure Rash Systemic candida Thrombocytopenia Upper respiratory tract infection Death
+563267	3/06/2021	71	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Faecal vomiting Myocardial infarction Unresponsive to stimuli Death
+559232	27/05/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+558667	26/05/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dizziness Fatigue Malaise Death
+552278	13/05/2021	71	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asphyxia Death
+549386	7/05/2021	71	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+544963	29/04/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dysarthria Influenza like illness Syncope Vomiting Death
+543506	26/04/2021	71	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Haemorrhage Death
+542726	23/04/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea Dysarthria Vomiting Death
+541682	21/04/2021	71	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Malaise Vomiting Death
+531759	6/04/2021	71	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea Erosive oesophagitis Malaise Death
+718761	8/03/2022	72	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+709371	12/02/2022	72	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	C-reactive protein increased Cardiac arrest Concomitant disease aggravated Dyspnoea Oedema peripheral Orthopnoea Skin ulcer Troponin increased Death
+703642	1/02/2022	72	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Death
+703066	31/01/2022	72	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial thrombosis Death
+688238	29/12/2021	72	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral infarction Cerebrovascular accident Coma scale Depressed level of consciousness Dysarthria Electrocardiogram Facial paralysis Hemiparesis Loss of consciousness Thrombosis Death
+680695	11/12/2021	72	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral artery thrombosis Metastases to liver Pancreatic carcinoma Death
+679513	9/12/2021	72	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Chest pain Headache Limb discomfort Pyrexia Death
+673298	29/11/2021	72	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia Death
+651938	28/10/2021	72	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute kidney injury C-reactive protein increased Concomitant disease aggravated Fibrin D dimer increased Haemoglobin decreased Hypotension Hypothermia Pulmonary embolism Red blood cell count decreased SARS-CoV-2 antibody test positive Thrombocytopenia Death
+595661	1/08/2021	72	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage Generalised tonic-clonic seizure Headache Death
+587654	16/07/2021	72	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Cardiac arrest Guillain-Barre syndrome Myelitis transverse Respiratory failure Death
+580051	5/07/2021	72	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blindness unilateral Blood fibrinogen decreased Cerebral venous sinus thrombosis Fibrin D dimer increased Haemorrhage intracranial Headache Nausea Thrombocytopenia Thrombosis with thrombocytopenia syndrome Vomiting Death
+569534	16/06/2021	72	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Candida sepsis Cholelithiasis Intestinal ischaemia Multiple organ dysfunction syndrome Pancreatitis Death
+563272	3/06/2021	72	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Fatigue Wheezing Death
+543969	27/04/2021	72	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Septic shock Death
+530690	2/04/2021	72	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+741926	22/06/2022	73	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Respiratory failure Respiratory tract infection Death
+727790	6/04/2022	73	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+698967	21/01/2022	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain Concomitant disease progression Dyspnoea Gastrooesophageal reflux disease Malaise Nausea Death
+636296	2/10/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardio-respiratory arrest Cerebral haemorrhage Cerebral mass effect Fall Immune thrombocytopenia Subdural haematoma Thrombocytopenia Death
+635096	30/09/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Pulmonary embolism Death
+626403	17/09/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Cardiac arrest Hypoaesthesia Thrombocytopenia Troponin increased Death
+625843	16/09/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain C-reactive protein increased Diarrhoea Multiple organ dysfunction syndrome Death
+605585	17/08/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Anaemia Ascites C-reactive protein increased Deep vein thrombosis Fibrin D dimer increased Haemodynamic instability Pulmonary embolism Thrombocytopenia Death
+602799	13/08/2021	73	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia Demyelination Lethargy Respiratory disorder Death
+599522	8/08/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cognitive disorder Concomitant disease progression Deep vein thrombosis Fibrin D dimer increased Pulmonary embolism Seizure Subarachnoid haemorrhage Thrombocytopenia Death
+583305	9/07/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Death
+582827	8/07/2021	73	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+581289	7/07/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Adverse event following immunisation Death
+570076	17/06/2021	73	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+563015	3/06/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intentional overdose Thrombosis Toxicity to various agents Death
+561318	31/05/2021	73	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fibrin D dimer increased Thrombocytopenia Death
+553816	16/05/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia Cardiac arrest Chest pain Deep vein thrombosis Dizziness Dyspnoea Hypotension Hypoxia Malaise Pulmonary embolism Right ventricular hypertrophy Death
+553099	14/05/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+546933	3/05/2021	73	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Pulmonary embolism Death
+543225	26/04/2021	73	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypotension Pneumonia aspiration Respiratory failure Death
+540025	19/04/2021	73	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Demyelinating polyneuropathy Guillain-Barre syndrome Death
+539588	18/04/2021	73	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Pulmonary embolism Death
+531359	5/04/2021	73	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Influenza like illness Injection site reaction Death
+740785	14/06/2022	74	F	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Adverse event following immunisation Death
+716092	2/03/2022	74	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Concomitant disease aggravated Death
+682142	15/12/2021	74	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiomyopathy Contusion Thrombocytopenia Visual impairment Death
+661947	10/11/2021	74	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Influenza Vaccine (TNS) (Influenza virus haemagglutinin) - Suspected	Cardiac arrest Chest pain Myopathy Death
+643809	14/10/2021	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation International normalised ratio abnormal Death
+641824	12/10/2021	74	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Fibrin D dimer increased Hypertension Thrombocytopenia Death
+636272	2/10/2021	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Dyspnoea Lethargy Malaise Death
+628504	21/09/2021	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain Deep vein thrombosis Factor V Leiden mutation Malaise Pulmonary embolism Death
+616464	2/09/2021	74	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea Vomiting Death
+600792	10/08/2021	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Hypothermia Pneumonia Death
+575406	25/06/2021	74	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiothoracic ratio increased Concomitant disease aggravated Dyspnoea Gastrooesophageal reflux disease Gout Hypertension Death
+574393	24/06/2021	74	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Trade name not specified (Product not coded) - Suspected	Adverse event following immunisation Death
+568200	14/06/2021	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Trade name not specified (Product not coded) - Suspected	Encephalitis Fibrin D dimer increased Headache Heparin-induced thrombocytopenia Neoplasm malignant Opsoclonus myoclonus Pulmonary sarcoidosis Death
+561111	31/05/2021	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+555676	20/05/2021	74	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain Blood urine present Cerebrovascular accident Haematuria Haemorrhage Thrombosis Death
+542323	22/04/2021	74	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Back pain Chest pain Dyspnoea Death
+737453	26/05/2022	75	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+736010	18/05/2022	75	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+714391	25/02/2022	75	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Septic shock Death
+703511	31/01/2022	75	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Dyspnoea Fall Hyperhidrosis Loss of consciousness Respiratory arrest Death
+699744	24/01/2022	75	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	COVID-19 Concomitant disease progression Respiratory failure SARS-CoV-2 test positive Vaccination failure Death
+672578	27/11/2021	75	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Bradycardia Bundle branch block right Cardiomegaly Cyanosis Deep vein thrombosis Fibrin D dimer increased Hypotension Hypoxia Pulmonary embolism Respiratory distress Syncope Tachycardia Troponin I increased Death
+655686	4/11/2021	75	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Encephalitis Death
+623399	13/09/2021	75	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiovascular disorder Death
+620368	8/09/2021	75	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+588021	18/07/2021	75	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Coronary artery disease Death
+583164	9/07/2021	75	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Micardis (telmisartan) - Not suspected Relpax (eletriptan hydrobromide) - Not suspected Tramadol (tramadol hydrochloride) - Not suspected Valium (diazepam) - Not suspected Ventolin (salbutamol) - Not suspected	Fatigue Pneumonia Death
+565366	8/06/2021	75	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+561074	31/05/2021	75	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+555187	19/05/2021	75	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+537100	14/04/2021	75	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+535750	12/04/2021	75	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Loss of consciousness Pulmonary oedema Death
+534960	9/04/2021	75	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dysarthria Encephalopathy Generalised tonic-clonic seizure Lethargy Magnetic resonance imaging head Vomiting Death
+734854	12/05/2022	76	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+724623	28/03/2022	76	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Cardiac arrest Haemoptysis Malaise Myocarditis Pneumonia Productive cough Rhinovirus infection Troponin increased Death
+665580	16/11/2021	76	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Cough Dyspnoea Haematemesis Haemoptysis Troponin increased Death
+664116	14/11/2021	76	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected FluQuadri Vaccine (Influenza virus haemagglutinin) - Suspected	Deep vein thrombosis Fibrin D dimer increased Gastrointestinal haemorrhage Haemoglobin decreased Pleural effusion Pulmonary embolism Pulmonary oedema Thrombocytopenia Death
+652299	28/10/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Autoimmune hepatitis Hepatic failure Hepatitis Multiple organ dysfunction syndrome Myositis Pneumonitis Death
+648284	21/10/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure Cardio-respiratory arrest Pulmonary embolism Thrombocytopenia Death
+647972	21/10/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrioventricular block Haemorrhage intracranial Death
+632170	26/09/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory arrest Death
+615920	2/09/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Chest pain Dyspnoea Pneumothorax Pulmonary congestion Pulmonary embolism Death
+615790	1/09/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia Facial paralysis Pharyngeal swelling Death
+613029	29/08/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+601377	11/08/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Pancreatitis acute Death
+598238	5/08/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Congestive cardiomyopathy Death
+596981	3/08/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Eliquis (apixaban) - Not suspected	Adverse event following immunisation Dyspnoea Infection Palpitations Death
+589650	21/07/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Eliquis (apixaban) - Not suspected Metoprolol (metoprolol tartrate) - Not suspected Rosuvastatin (rosuvastatin calcium) - Not suspected Trade name not specified (Product not coded) - Not suspected Zostavax (live varicella vaccine) - Not suspected	Brain stem haemorrhage Death
+576368	28/06/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Multiple organ dysfunction syndrome Death
+567054	11/06/2021	76	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute kidney injury Atrial fibrillation Diarrhoea Hypertension Sepsis Syncope Death
+565076	8/06/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Feeling cold Headache Death
+553016	14/05/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Malaise Death
+552934	14/05/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Headache Death
+552117	13/05/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Death
+552107	13/05/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+542385	22/04/2021	76	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cold sweat Coronary artery disease Dyspnoea Headache Hypertension Influenza like illness Myocardial ischaemia Seizure Death
+534327	9/04/2021	76	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Crestor (rosuvastatin calcium) - Not suspected Micardis (telmisartan) - Not suspected Trade name not specified (temazepam) - Not suspected Xarelto (rivaroxaban) - Not suspected	Confusional state Haemorrhage intracranial Hypotension Meningitis Nausea Sepsis Vomiting Death
+521311	4/03/2021	76	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Unresponsive to stimuli Death
+736007	18/05/2022	77	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+733301	4/05/2022	77	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Adverse event following immunisation Death
+711210	17/02/2022	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial fibrillation Haemorrhagic stroke Hypernatraemia Pneumonia aspiration Death
+681158	13/12/2021	77	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial ischaemia Death
+680418	10/12/2021	77	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Pneumonia Respiratory failure Death
+679387	8/12/2021	77	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Cardiac arrest Electrocardiogram abnormal Hypocalcaemia Hypoglycaemia Hypokalaemia Death
+679242	8/12/2021	77	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Acute myocardial infarction Cardiac arrest Multiple organ dysfunction syndrome Death
+667940	19/11/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arthralgia Concomitant disease progression Haematuria Myalgia Respiratory arrest Death
+662057	10/11/2021	77	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+651143	27/10/2021	77	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Pyrexia Death
+602118	12/08/2021	77	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Guillain-Barre syndrome Nausea Pulmonary embolism Death
+598671	6/08/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Cardiac failure Dyspnoea Emphysema Pulmonary fibrosis Pulmonary hypertension Death
+593820	28/07/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Fibrin D dimer increased Hepatic failure Thrombocytopenia Death
+593763	28/07/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute abdomen Arthralgia Cardiac arrest Constipation Haematuria Myalgia Pyrexia Respiratory arrest Respiratory failure Sepsis Death
+565335	8/06/2021	77	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+564913	7/06/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Upper gastrointestinal haemorrhage Death
+555741	20/05/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+551062	11/05/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cyanosis Dyspnoea Death
+547969	5/05/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Atrial flutter Cardiac arrest Palpitations Death
+546816	3/05/2021	77	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Fluad (Influenza virus haemagglutinin) - Not suspected	Blood fibrinogen increased Mesenteric artery thrombosis Pulseless electrical activity Death
+535193	10/04/2021	77	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism Death
+526002	24/03/2021	77	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Depressed level of consciousness Lethargy Pyrexia Respiratory arrest Death
+524083	18/03/2021	77	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	General physical health deterioration Death
+742259	24/06/2022	78	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Hyperhidrosis Myocarditis Pericarditis Pleuritic pain Pneumonia Death
+739485	7/06/2022	78	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected Prevenar 13 (Pneumococcal purified capsular polysaccharides) - Suspected	Basilar artery thrombosis Cerebrovascular accident Pneumonia Death
+734868	12/05/2022	78	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction Bradycardia Cardiac arrest Chest pain Death
+734205	10/05/2022	78	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Influenza Vaccine (TNS) (Influenza virus haemagglutinin) - Suspected	Aortic dissection rupture Fatigue Nausea Pain Pyrexia Death
+717816	6/03/2022	78	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Norvasc (amlodipine) - Not suspected	Cerebrovascular accident Subdural haematoma Death
+682377	15/12/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral infarction Diarrhoea Guillain-Barre syndrome Death
+674876	1/12/2021	78	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+650265	25/10/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Trade name not specified (Product not coded) - Not suspected Trade name not specified (aspirin) - Not suspected Trade name not specified (felodipine) - Not suspected Trade name not specified (leflunomide) - Not suspected	Adverse event following immunisation Decreased appetite Dyspnoea Fatigue Pyrexia Death
+615222	1/09/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease Death
+609229	23/08/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+596900	3/08/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pericardial haemorrhage Death
+595258	30/07/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac ventricular thrombosis Cerebral infarction Fibrin D dimer increased Sepsis Thrombocytopenia Death
+577898	1/07/2021	78	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute kidney injury Breast abscess Influenza like illness Pyrexia Death
+577565	30/06/2021	78	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Intestinal ischaemia Septic shock Death
+562118	1/06/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Capillary leak syndrome Fatigue Multiple organ dysfunction syndrome Myalgia Polycythaemia Syncope Thrombocytopenia Death
+559053	27/05/2021	78	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+558268	25/05/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pneumonia Death
+552770	14/05/2021	78	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Concomitant disease aggravated Lethargy Malaise Vomiting Death
+549686	7/05/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Atorvastatin (atorvastatin calcium propylene glycol solvate) - Not suspected MK-8835 ( Ertugliflozin ) (ertugliflozin) - Not suspected Trade name not specified (Product not coded) - Not suspected Trade name not specified (aspirin) - Not suspected Trade name not specified (clopidogrel) - Not suspected Trade name not specified (domperidone) - Not suspected Trade name not specified (irbesartan) - Not suspected Trade name not specified (pantoprazole) - Not suspected Trade name not specified (ranitidine) - Not suspected Trade name not specified (sitagliptin) - Not suspected	Acute myocardial infarction Fibrin D dimer increased Death
+548338	5/05/2021	78	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Dyspnoea Pulmonary embolism Death
+535742	12/04/2021	78	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fall Loss of consciousness Death
+740271	10/06/2022	79	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected Prevenar 13 (Pneumococcal purified capsular polysaccharides) - Not suspected	Acute myocardial infarction Cerebrovascular disorder Chest discomfort Malaise Death
+670921	24/11/2021	79	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+638153	5/10/2021	79	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Suspected	Aortic aneurysm Deep vein thrombosis Haematological malignancy Death
+618180	6/09/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Diarrhoea Retching Subdural haematoma Death
+610014	24/08/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+581407	7/07/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Pericardial haemorrhage Death
+576410	28/06/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery thrombosis Myocardial infarction Nasopharyngitis Death
+576409	28/06/2021	79	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Death
+559367	27/05/2021	79	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia aspiration Death
+554151	17/05/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+549691	7/05/2021	79	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Death
+547090	3/05/2021	79	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Dextran (dextran 70; glucose monohydrate) - Not suspected Pravastatin (pravastatin sodium) - Not suspected Trade name not specified (allopurinol) - Not suspected Trade name not specified (amlodipine) - Not suspected Trade name not specified (bimatoprost) - Not suspected Trade name not specified (hypromellose) - Not suspected Trade name not specified (irbesartan) - Not suspected Trade name not specified (pantoprazole) - Not suspected Trade name not specified (trimethoprim) - Not suspected Valaciclovir (valaciclovir hydrochloride) - Not suspected	Chest pain Dyspnoea Peripheral swelling Tachycardia Death
+545445	30/04/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Brain injury Cardiac arrest Chest pain Death
+543965	27/04/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+542194	22/04/2021	79	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (Product not coded) - Suspected	Cerebral haemorrhage Death
+535110	9/04/2021	79	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+531754	6/04/2021	79	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Death
+738130	30/05/2022	80	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Deep vein thrombosis Pulmonary embolism Death
+737150	25/05/2022	80	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Concomitant disease progression Fatigue Pulmonary embolism Respiratory failure Death
+734396	10/05/2022	80	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Blood bilirubin increased Cytomegalovirus infection Encephalopathy Haemophagocytic lymphohistiocytosis Hepatitis Pneumonia aspiration Renal failure Serum ferritin increased Death
+733760	6/05/2022	80	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction Death
+713567	23/02/2022	80	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Concomitant disease progression Death
+684632	20/12/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Concomitant disease aggravated Decreased appetite Echocardiogram Endocarditis Fibrin D dimer increased Lethargy Melaena Thrombocytopenia Vomiting Death
+675554	1/12/2021	80	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (apixaban) - Not suspected	Cardiac arrest Subarachnoid haemorrhage Death
+667978	19/11/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Cough Dyspnoea Pyrexia Death
+638929	6/10/2021	80	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+636562	3/10/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected AMCLAVOX DUO FORTE 875/125 (amoxicillin trihydrate; clavulanic acid) - Not suspected Actonel (risedronate sodium) - Not suspected Crosuva (rosuvastatin calcium) - Not suspected Metoprolol (metoprolol tartrate) - Not suspected Spiriva (tiotropium bromide monohydrate) - Not suspected Symbicort Turbuhaler 400/12 (budesonide; formoterol (eformoterol) fumarate dihydrate) - Not suspected Trade name not specified (doxycycline) - Not suspected Trade name not specified (prednisone) - Not suspected	Cough Dyspnoea Haemophagocytic lymphohistiocytosis Multiple organ dysfunction syndrome Pyrexia Thrombocytopenia Death
+632340	27/09/2021	80	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis Cardiac arrest Death
+609053	23/08/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute kidney injury Concomitant disease aggravated Pulmonary embolism Pulseless electrical activity Troponin increased Death
+603999	16/08/2021	80	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+597796	4/08/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+596980	3/08/2021	80	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+593015	27/07/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ruptured cerebral aneurysm Death
+592497	26/07/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain Acute kidney injury Cardiac arrest Cardiogenic shock Decreased appetite Dizziness Fatigue Hypoxic-ischaemic encephalopathy Lymphoma Multiple organ dysfunction syndrome Nausea Upper gastrointestinal haemorrhage Death
+576408	28/06/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Malaise Pulmonary embolism Death
+570053	17/06/2021	80	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory failure Death
+567655	12/06/2021	80	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (Product not coded) - Not suspected	Asthenia Cyanosis Hallucination Unresponsive to stimuli Death
+565235	8/06/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Death
+561837	1/06/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture Death
+558522	26/05/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Influenza Vaccine (TNS) (Influenza virus haemagglutinin) - Suspected	Aortic aneurysm rupture Chest discomfort Condition aggravated Malaise Death
+549073	7/05/2021	80	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Oedema peripheral Death
+547870	5/05/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Confusional state Diabetes mellitus Disorientation Fall Hypotension Influenza like illness Loss of consciousness Death
+537556	14/04/2021	80	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Atorvastatin (atorvastatin calcium propylene glycol solvate) - Not suspected Bisoprolol (bisoprolol fumarate) - Not suspected Eliquis (apixaban) - Not suspected Keflex (cefalexin monohydrate) - Not suspected Panadeine Forte (codeine phosphate hemihydrate; paracetamol) - Not suspected Trade name not specified (colchicine) - Not suspected Trade name not specified (perindopril) - Not suspected	Pneumonia aspiration Small intestinal obstruction Vomiting Death
+535872	12/04/2021	80	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Unresponsive to stimuli Death
+717886	7/03/2022	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal adhesions Abdominal distension Abdominal pain Adverse event following immunisation Ageusia Balance disorder C-reactive protein increased Cardiac disorder Concomitant disease aggravated Constipation Contusion Decreased appetite Dry mouth Dysgeusia Dysphagia Epistaxis Intestinal ischaemia Intra-abdominal fluid collection Loss of consciousness Malaise Mouth haemorrhage Neoplasm malignant Pain Restless legs syndrome Small intestinal obstruction Syncope Troponin increased Vomiting Death
+715318	28/02/2022	81	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+703008	31/01/2022	81	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Hypertensive heart disease Myocardial ischaemia Death
+697282	19/01/2022	81	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial ischaemia Death
+635246	1/10/2021	81	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Fibrin D dimer increased Multiple organ dysfunction syndrome Pneumonia Thrombocytopenia Urinary tract infection Death
+606546	19/08/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Asthenia Bradycardia Cellulitis Hypothermia Immune thrombocytopenia Lethargy Multiple organ dysfunction syndrome Pancytopenia Sepsis Death
+605490	17/08/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+602916	13/08/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+592782	27/07/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+587205	16/07/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture Cardiac arrest Gastrooesophageal reflux disease Headache Malaise Death
+585981	14/07/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+576744	29/06/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Dyspnoea Death
+570818	18/06/2021	81	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ataxia Guillain-Barre syndrome Death
+551850	12/05/2021	81	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Body temperature decreased Hypotension Hypoxia Unresponsive to stimuli Wheezing Death
+546342	1/05/2021	81	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Atrial fibrillation Death
+539979	19/04/2021	81	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia Death
+536538	13/04/2021	81	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+521683	5/03/2021	81	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aspiration Sepsis Vomiting Death
+713649	24/02/2022	82	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Anticoagulation drug level below therapeutic Encephalomalacia Miller Fisher syndrome Pneumonia aspiration Subacute inflammatory demyelinating polyneuropathy Death
+668139	19/11/2021	82	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage Cerebrovascular accident Confusional state Headache Rash Death
+658641	5/11/2021	82	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain Dyspnoea Extradural haematoma Extradural haematoma evacuation Fibrin D dimer increased Subdural haematoma Subdural haematoma evacuation Thrombocytopenia Death
+626784	18/09/2021	82	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+617755	5/09/2021	82	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain upper Atrial fibrillation Dysarthria Vomiting Death
+598472	5/08/2021	82	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+583098	9/07/2021	82	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer increased Thrombocytopenia Death
+582846	9/07/2021	82	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+582521	8/07/2021	82	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Vaccination error Death
+575009	24/06/2021	82	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Concomitant disease aggravated Death
+563665	4/06/2021	82	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Cerebrovascular accident Death
+560481	30/05/2021	82	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Deep vein thrombosis Pulmonary embolism Death
+546503	2/05/2021	82	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Terminal state Death
+543347	26/04/2021	82	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness Disseminated intravascular coagulation Sepsis Death
+541534	21/04/2021	82	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+532790	6/04/2021	82	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Cardiopulmonary failure Death
+531742	6/04/2021	82	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Hyperhidrosis Hypotension Subdural haemorrhage Unresponsive to stimuli Death
+530248	1/04/2021	82	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+736006	18/05/2022	83	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+717139	4/03/2022	83	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemophagocytic lymphohistiocytosis Leukaemia Liver injury Sepsis Serum ferritin increased Death
+713647	24/02/2022	83	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Acute myocardial infarction Bradycardia Concomitant disease progression Dyspnoea Malaise Myocarditis Peripheral coldness Syncope Tachypnoea Troponin increased Death
+687718	27/12/2021	83	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Confusional state Injection site pain Pneumonia Death
+646740	19/10/2021	83	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage Headache Muscle spasms Death
+626452	17/09/2021	83	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Aortic aneurysm Death
+623212	13/09/2021	83	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhage intracranial Death
+620090	8/09/2021	83	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Lymphoma Death
+616146	2/09/2021	83	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Haemorrhagic stroke Headache Death
+568387	14/06/2021	83	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dysarthria Multiple organ dysfunction syndrome Pneumonia Death
+553078	14/05/2021	83	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Agitation Dyspnoea Myocardial infarction Death
+552212	13/05/2021	83	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+551574	12/05/2021	83	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral haemorrhage Embolic stroke Death
+549431	7/05/2021	83	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypophagia Pneumonia aspiration Pyrexia Death
+547424	4/05/2021	83	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+543260	26/04/2021	83	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arthralgia Cardiac arrest Headache Malaise Somnolence Death
+542206	22/04/2021	83	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Intestinal obstruction Death
+539888	19/04/2021	83	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Anaemia Concomitant disease progression Pulmonary embolism Thrombocytopenia Death
+535185	10/04/2021	83	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arthralgia Tenosynovitis stenosans Death
+522739	12/03/2021	83	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Multiple organ dysfunction syndrome Pancreatitis acute Rash macular Death
+522710	12/03/2021	83	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+740784	14/06/2022	84	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Death
+731897	27/04/2022	84	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Confusional state Dyspepsia Fall Hypotension Hypoxia Pneumonia aspiration Pyrexia Sepsis Vomiting Death
+695644	17/01/2022	84	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+661396	9/11/2021	84	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+647067	19/10/2021	84	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ataxia Cerebrovascular accident Lethargy Pneumonia aspiration Death
+630009	23/09/2021	84	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ascites Hepatic cirrhosis Portal vein thrombosis Thrombocytopenia Death
+625235	16/09/2021	84	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+617751	5/09/2021	84	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Fibrin D dimer increased Pleural effusion Thrombocytopenia Death
+609766	24/08/2021	84	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Fibrin D dimer Mesenteric vein thrombosis Peripheral artery occlusion Pulmonary embolism Death
+577430	30/06/2021	84	-	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Chills Cough Insomnia Vomiting Death
+575493	25/06/2021	84	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain Death
+565693	9/06/2021	84	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac failure Contusion Dyspnoea Lethargy Pain in extremity Unresponsive to stimuli Death
+553718	15/05/2021	84	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Contusion General physical health deterioration Headache Incoherent Malaise Nausea Pneumonia Unresponsive to stimuli Urinary tract infection Vomiting White blood cell count increased Death
+545654	30/04/2021	84	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+531342	5/04/2021	84	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Respiratory failure Vomiting Death
+529201	30/03/2021	84	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+714463	25/02/2022	85	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Respiratory failure Death
+692021	10/01/2022	85	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute pulmonary oedema Concomitant disease progression Death
+618531	6/09/2021	85	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+606352	18/08/2021	85	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism Death
+606340	18/08/2021	85	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Death
+598846	6/08/2021	85	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cellulitis streptococcal Chills Pyrexia Sepsis Death
+593278	27/07/2021	85	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic rupture Death
+584822	13/07/2021	85	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+583670	11/07/2021	85	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Ischaemic stroke Pneumonia aspiration Death
+583089	9/07/2021	85	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Cardizem (diltiazem hydrochloride) - Suspected Lasix (furosemide (frusemide)) - Suspected Spiractin (spironolactone) - Suspected Trade name not specified (Product not coded) - Interaction Trade name not specified (Product not coded) - Not suspected	Concomitant disease progression Fatigue Fluid intake reduced Pneumonia Death
+571121	18/06/2021	85	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+557946	25/05/2021	85	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac valve disease Myocardial ischaemia Death
+554588	18/05/2021	85	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+553131	14/05/2021	85	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+546506	2/05/2021	85	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Terminal state Death
+544804	28/04/2021	85	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal sepsis Angioedema Death
+542880	23/04/2021	85	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism Death
+542222	22/04/2021	85	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness Death
+742514	27/06/2022	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Subdural haematoma Death
+738913	3/06/2022	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+736177	19/05/2022	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Intestinal ischaemia Mesenteric vein thrombosis Death
+731223	22/04/2022	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+688847	31/12/2021	86	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain C-reactive protein increased Delirium Fall Haemorrhage intracranial Urinary tract infection Death
+688346	30/12/2021	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Confusional state Dysphagia Hypertension Death
+651019	26/10/2021	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+605347	17/08/2021	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Cerebrovascular disorder Death
+598302	5/08/2021	86	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+594970	30/07/2021	86	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Death
+585154	13/07/2021	86	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+578048	1/07/2021	86	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+576749	29/06/2021	86	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aphasia Confusional state Muscular weakness Thrombosis Death
+573987	24/06/2021	86	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Clexane (Enoxaparin) - Not suspected	Bradycardia Cerebrovascular accident Deep vein thrombosis Dysphagia Epistaxis Haematemesis Myocardial infarction Platelet count decreased Pulmonary embolism Splenic infarction Staphylococcal bacteraemia Vertigo Death
+569171	16/06/2021	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism Death
+566310	10/06/2021	86	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+563022	3/06/2021	86	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Arteriosclerosis coronary artery Arthralgia Chest pain Malaise Vomiting Death
+549639	7/05/2021	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+538304	15/04/2021	86	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Agonal respiration Haemorrhage intracranial Hypertension Paraesthesia Unresponsive to stimuli Death
+536304	12/04/2021	86	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Disease progression Death
+529053	30/03/2021	86	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vomiting Death
+527413	26/03/2021	86	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral haemorrhage Cerebrovascular accident Death
+731219	22/04/2022	87	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+729619	13/04/2022	87	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial ischaemia Death
+664459	15/11/2021	87	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial ischaemia Death
+613372	30/08/2021	87	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory failure Death
+606330	18/08/2021	87	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blood pressure decreased Cardiogenic shock Somnolence Death
+598895	6/08/2021	87	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+595766	1/08/2021	87	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+581533	7/07/2021	87	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Diamox (acetazolamide) - Not suspected Escitalopram AN (Escitalopram) - Not suspected Rabeprazole (rabeprazole sodium) - Not suspected Trade name not specified (budesonide) - Not suspected Trade name not specified (clotrimazole) - Not suspected	Concomitant disease progression Death
+567348	11/06/2021	87	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+565698	9/06/2021	87	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+557967	25/05/2021	87	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Fluarix (Influenza virus haemagglutinin) - Suspected	Adverse event following immunisation Death
+546651	3/05/2021	87	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Deep vein thrombosis Peripheral swelling Death
+543359	26/04/2021	87	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Death
+543246	26/04/2021	87	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrioventricular block Cardiac arrest Vomiting Death
+539893	19/04/2021	87	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+535733	12/04/2021	87	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+523387	16/03/2021	87	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Thyroxine (levothyroxine sodium) - Not suspected Trade name not specified (allopurinol) - Not suspected Trade name not specified (ferrous sulfate) - Not suspected	Pulmonary embolism Death
+736180	19/05/2022	88	M	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Adverse event following immunisation Depressed level of consciousness Tachypnoea Death
+731715	27/04/2022	88	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Cardiac arrest Fall Pulmonary embolism Death
+677502	6/12/2021	88	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+629243	22/09/2021	88	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory arrest Death
+574229	24/06/2021	88	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cyanosis Dyspnoea Death
+569189	16/06/2021	88	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Encephalitis Death
+561128	31/05/2021	88	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blood pressure abnormal Fatigue Hyperkalaemia Myalgia Renal failure Retching Vision blurred Death
+555025	19/05/2021	88	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Loss of consciousness Malaise Death
+554127	17/05/2021	88	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+551047	11/05/2021	88	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (Product not coded) - Suspected	Concomitant disease progression Cyanosis Pain Pallor Death
+547411	4/05/2021	88	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+543895	27/04/2021	88	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Metformin (metformin hydrochloride) - Not suspected Trade name not specified (atenolol) - Not suspected Trade name not specified (irbesartan) - Not suspected	Influenza like illness Death
+543370	26/04/2021	88	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Pneumothorax Death
+543110	25/04/2021	88	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Anaemia Fibrin D dimer increased Platelet count decreased Sepsis Death
+541883	22/04/2021	88	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected Coveram 10mg/5mg (perindopril arginine; amlodipine besilate) - Not suspected Diabex (metformin hydrochloride) - Not suspected Trade name not specified (Product not coded) - Not suspected	Adverse event following immunisation Death
+540158	19/04/2021	88	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral infarction Condition aggravated Microangiopathic haemolytic anaemia Thrombocytopenia Death
+538583	16/04/2021	88	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Myocardial infarction Death
+537408	14/04/2021	88	-	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+532798	6/04/2021	88	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial fibrillation Cerebral venous thrombosis Intestinal infarction Intestinal ischaemia Mesenteric artery embolism Death
+737452	26/05/2022	89	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac failure Death
+720904	16/03/2022	89	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dizziness Myalgia Myelodysplastic syndrome Nausea Pancytopenia Seizure Thrombocytopenia Weight decreased Death
+701551	27/01/2022	89	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Metformin (metformin hydrochloride) - Not suspected Trade name not specified (lercanidipine hydrochloride) - Not suspected Trade name not specified (pantoprazole) - Not suspected Trade name not specified (simvastatin) - Not suspected Trade name not specified (telmisartan) - Not suspected Xarelto (rivaroxaban) - Not suspected	Cardiogenic shock Concomitant disease progression Gastric volvulus Intestinal ischaemia Multiple organ dysfunction syndrome Pneumonia Death
+682908	15/12/2021	89	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Cerebrovascular accident Fall Death
+623046	13/09/2021	89	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic dissection Pericardial haemorrhage Death
+613011	29/08/2021	89	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral infarction Decreased appetite Lethargy Oxygen saturation decreased Somnolence Death
+609807	24/08/2021	89	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dizziness Dyspnoea Lethargy Malaise Pneumonia Renal failure Sepsis Death
+605174	17/08/2021	89	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral haemorrhage Death
+598170	5/08/2021	89	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis coronary artery Cardiomegaly Myocardial fibrosis Death
+562926	3/06/2021	89	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+561179	31/05/2021	89	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Fall Death
+557868	25/05/2021	89	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease progression Death
+550666	10/05/2021	89	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Somnolence Vision blurred Death
+541426	21/04/2021	89	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia Cerebrovascular accident Death
+535903	12/04/2021	89	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Death
+532021	6/04/2021	89	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Vomiting Death
+717392	4/03/2022	90	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Death
+708611	10/02/2022	90	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+691465	9/01/2022	90	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Cardiac arrest Cardiogenic shock Death
+689732	5/01/2022	90	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Concomitant disease progression Death
+687442	25/12/2021	90	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Concomitant disease progression Gastrointestinal haemorrhage Herpes zoster Malaise Myalgia Pancytopenia Sepsis Death
+686938	23/12/2021	90	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Internal haemorrhage Migraine Oedema peripheral Petechiae Pulmonary embolism Death
+683823	17/12/2021	90	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	General physical health deterioration Pneumonia Sepsis Death
+681656	14/12/2021	90	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Internal haemorrhage Migraine Oedema peripheral Pulmonary embolism Death
+654855	2/11/2021	90	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+654798	2/11/2021	90	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+598896	6/08/2021	90	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall Lower respiratory tract infection Oxygen saturation decreased Sepsis Syncope Vomiting Death
+588772	20/07/2021	90	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Herpes zoster Death
+585806	14/07/2021	90	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Asthenia Concomitant disease aggravated Pneumonia Death
+577930	1/07/2021	90	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cholecystitis acute Infection Multiple organ dysfunction syndrome Septic shock Death
+570789	18/06/2021	90	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Decreased appetite Hypotension Lethargy Malaise Death
+565154	8/06/2021	90	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Concomitant disease aggravated Concomitant disease progression Constipation Deep vein thrombosis Fibrin D dimer increased Heparin-induced thrombocytopenia Thrombocytopenia Death
+561319	31/05/2021	90	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+554730	18/05/2021	90	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aortic aneurysm rupture Fall Hypotension Traumatic intracranial haemorrhage Death
+553998	17/05/2021	90	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intestinal obstruction Pain Pneumonia aspiration Death
+551568	12/05/2021	90	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+542302	22/04/2021	90	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+539928	19/04/2021	90	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+533668	8/04/2021	90	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness Death
+521743	6/03/2021	90	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Vomiting Death
+734859	12/05/2022	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+733302	4/05/2022	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+729616	13/04/2022	91	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Atrial fibrillation Death
+628900	21/09/2021	91	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Lacunar infarction Death
+612314	27/08/2021	91	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pericardial haemorrhage Death
+595381	30/07/2021	91	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+588770	20/07/2021	91	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac failure Epistaxis Fibrin D dimer increased Immune thrombocytopenia Death
+577133	29/06/2021	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+567973	14/06/2021	91	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+566295	10/06/2021	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction Confusional state Dyspnoea Myocardial ischaemia Pain in extremity Death
+564539	7/06/2021	91	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+563514	4/06/2021	91	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Pneumonia Death
+558353	26/05/2021	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+557542	24/05/2021	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Aspiration Death
+554503	18/05/2021	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Contusion Cough Dyspnoea Oxygen saturation decreased Wheezing Death
+543278	26/04/2021	91	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Blister Lethargy Rash Toxic epidermal necrolysis Death
+541331	21/04/2021	91	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiogenic shock Death
+540106	19/04/2021	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite Facial paralysis Hemiparesis Lethargy Death
+539728	19/04/2021	91	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dysarthria Ischaemic stroke Lethargy Loss of consciousness Death
+535523	12/04/2021	91	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain Dyspnoea Myocardial infarction Nausea Sepsis Unresponsive to stimuli Death
+529418	31/03/2021	91	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Malaise Death
+524473	19/03/2021	91	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Malaise Death
+689418	4/01/2022	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Concomitant disease aggravated Infarction Respiratory arrest Death
+636516	3/10/2021	92	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Chest pain Fatigue Death
+618446	6/09/2021	92	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Malaise Nausea Death
+609484	24/08/2021	92	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute coronary syndrome Cardiac arrest Pneumonia Pulmonary oedema Death
+595253	30/07/2021	92	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+571278	18/06/2021	92	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Fall Death
+563694	4/06/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (Product not coded) - Not suspected	Cerebrovascular accident Death
+563058	3/06/2021	92	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Multiple organ dysfunction syndrome Death
+561188	31/05/2021	92	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Unresponsive to stimuli Death
+556634	21/05/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+554711	18/05/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Intestinal perforation Vomiting Death
+554579	18/05/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Somnolence Death
+546910	3/05/2021	92	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	General physical health deterioration Myocardial infarction Death
+543461	26/04/2021	92	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Death Loss of consciousness
+540763	20/04/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypotension Loss of consciousness Nausea Pain Death
+538589	16/04/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia Death
+536914	13/04/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Unresponsive to stimuli Death
+522391	11/03/2021	92	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Ischaemic stroke Mydriasis Death
+522108	9/03/2021	92	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Death
+520837	1/03/2021	92	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Loss of consciousness Death
+712410	21/02/2022	93	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain Concomitant disease aggravated Dysuria Fluid retention Lower respiratory tract infection Pyrexia Renal failure Sepsis Death
+669674	23/11/2021	93	F	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Electrocardiogram abnormal Malaise Obstructive shock Oedema peripheral Organ failure Pleural effusion Pulmonary embolism Rectal haemorrhage Weight increased Death
+573150	23/06/2021	93	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+573003	22/06/2021	93	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebral infarction Death
+565411	8/06/2021	93	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia aspiration Vomiting Death
+563500	4/06/2021	93	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hypotension Hypothermia Death
+554002	17/05/2021	93	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Decreased appetite Death
+549441	7/05/2021	93	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Xarelto (rivaroxaban) - Suspected	Cerebral haemorrhage Death
+539895	19/04/2021	93	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	General physical health deterioration Death
+528392	29/03/2021	93	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia Death
+528345	29/03/2021	93	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Chest pain General physical health deterioration Death
+522731	12/03/2021	93	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Pneumonia Respiratory failure Death
+714466	25/02/2022	94	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+680694	11/12/2021	94	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebellar infarction Cerebral infarction Pulmonary embolism Death
+672528	26/11/2021	94	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Chest pain Cough Pleural effusion Death
+583020	9/07/2021	94	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia Death
+579121	2/07/2021	94	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Delirium Dyspnoea Fatigue Hypophagia Parainfluenzae virus infection Pyrexia Tachycardia Death
+577131	29/06/2021	94	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Intestinal ischaemia Platelet count decreased Death
+572665	22/06/2021	94	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture Death
+565833	9/06/2021	94	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Rash Rectal haemorrhage Death
+562988	3/06/2021	94	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Depressed level of consciousness Hypotension Death
+556062	20/05/2021	94	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Hyperhidrosis Oxygen saturation decreased Death
+542243	22/04/2021	94	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+540031	19/04/2021	94	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Choking Loss of consciousness Death
+537952	15/04/2021	94	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Abdominal pain Arthralgia Back pain Pain in extremity Platelet count decreased Pulmonary embolism Thrombosis Vomiting Death
+535669	12/04/2021	94	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arrhythmia Death
+529039	30/03/2021	94	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Respiratory rate increased Death
+698345	21/01/2022	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Not suspected	Myocardial infarction Vaccination failure Death
+682354	15/12/2021	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Death
+658313	4/11/2021	95	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+608051	20/08/2021	95	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+558781	26/05/2021	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dehydration Dyspnoea Heart rate increased Death
+557543	24/05/2021	95	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Constipation Hypervolaemia Respiratory failure Death
+548513	6/05/2021	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Sepsis Death
+547083	3/05/2021	95	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	General physical health deterioration Myocardial infarction Death
+546183	30/04/2021	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Thrombotic stroke Death
+543239	26/04/2021	95	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Respiratory distress Vomiting Death
+542230	22/04/2021	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+538631	16/04/2021	95	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite Death
+532108	6/04/2021	95	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Atrial fibrillation Cerebrovascular accident Gallbladder mass Nausea Pulmonary embolism Tachypnoea Vomiting Death
+522414	11/03/2021	95	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Diabetic ketoacidosis Urosepsis Death
+521789	6/03/2021	95	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected Trade name not specified (trimethoprim) - Suspected	Unresponsive to stimuli Death
+737280	25/05/2022	96	M	NUVAXOVID COVID-19 Vaccine (SARS-CoV-2 rS (NVX-CoV2373)) - Suspected	Cerebrovascular accident Death
+562466	2/06/2021	96	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Hypothermia Death
+561920	1/06/2021	96	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Arteriosclerosis Concomitant disease progression Urinary tract infection Death
+561020	31/05/2021	96	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acquired haemophilia Death
+546508	2/05/2021	96	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Terminal state Death
+540132	19/04/2021	96	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+538635	16/04/2021	96	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death Malaise Death
+536534	13/04/2021	96	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pyrexia Death
+524247	19/03/2021	96	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia viral Death
+714462	25/02/2022	97	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Colon cancer Death
+585166	13/07/2021	97	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute myocardial infarction Eye haemorrhage Fibrin D dimer increased Immune thrombocytopenia Subdural haemorrhage Death
+542196	22/04/2021	97	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+529022	30/03/2021	97	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Unresponsive to stimuli Death
+734081	9/05/2022	98	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac arrest Death
+722882	22/03/2022	98	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+600986	10/08/2021	98	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Confusional state Disorientation Pneumonia aspiration Seizure Death
+598893	6/08/2021	98	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Fall General physical health deterioration Lethargy Syncope Death
+557942	25/05/2021	98	-	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+521153	3/03/2021	98	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite Death
+717450	4/03/2022	99	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Acute myocardial infarction Faecaloma Fall Lower respiratory tract infection Pulmonary oedema Urinary tract infection Death
+599727	9/08/2021	99	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Fall Death
+558047	25/05/2021	99	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cardiac failure Pulmonary oedema Death
+551017	11/05/2021	99	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia aspiration Death
+544822	28/04/2021	100	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+543311	26/04/2021	100	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+538633	16/04/2021	100	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Malaise Death
+534410	9/04/2021	100	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea General physical health deterioration Malaise Oxygen saturation decreased Pulmonary congestion Death
+736519	21/05/2022	-	F	Spikevax COVID-19 vaccine (Elasomeran (mRNA)) - Suspected	Concomitant disease aggravated Myocardial ischaemia Death
+726899	4/04/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Chest pain Hypoaesthesia Pericarditis Urticaria Death
+721416	17/03/2022	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	COVID-19 Concomitant disease progression Death
+694426	14/01/2022	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+693720	13/01/2022	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+688526	30/12/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+688521	30/12/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+687813	27/12/2021	-	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+687085	23/12/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+684616	20/12/2021	-	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+684613	20/12/2021	-	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+684611	20/12/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+678201	7/12/2021	-	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Adverse event following immunisation Death
+677821	6/12/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Blood urine present Concomitant disease progression Extensive swelling of vaccinated limb Death
+673114	29/11/2021	-	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Myocardial infarction Death
+666513	17/11/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+666299	17/11/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Death
+660605	8/11/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+659968	5/11/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+654822	2/11/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Epistaxis Myocardial ischaemia Thrombosis Death
+648326	21/10/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Myocardial infarction Pneumonia Death
+647488	20/10/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+644718	15/10/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocarditis Death
+635326	1/10/2021	-	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Cerebrovascular accident Death
+634300	29/09/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Pyrexia Death
+632776	27/09/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Pulmonary embolism Death
+631086	24/09/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm rupture Death
+626646	17/09/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Pulmonary embolism Thrombosis Death
+626537	17/09/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+625877	16/09/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Deep vein thrombosis Fall Pneumonia aspiration Pulmonary embolism Death
+621253	9/09/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+620719	9/09/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected Alvesco (ciclesonide) - Not suspected Metoprolol (metoprolol tartrate) - Not suspected Salbutamol (salbutamol) - Not suspected Trade name not specified (apixaban) - Not suspected Trade name not specified (digoxin) - Not suspected Trade name not specified (furosemide (frusemide)) - Not suspected Trade name not specified (spironolactone) - Not suspected	Concomitant disease progression Death
+619817	7/09/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Vertebrobasilar stroke Death
+615875	1/09/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocarditis Death
+613645	30/08/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Subarachnoid haemorrhage Death
+613388	30/08/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Death
+613025	29/08/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Intestinal ischaemia Death
+610007	24/08/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Organ failure Sepsis Death
+609222	23/08/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Pulmonary embolism Death
+606241	18/08/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Delirium Pneumonia Death
+601767	11/08/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arrhythmia Concomitant disease aggravated Death
+596955	3/08/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease progression Death
+595884	2/08/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Arteriosclerosis coronary artery Myocardial ischaemia Death
+593870	28/07/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Myocardial infarction Death
+593828	28/07/2021	-	-	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebrovascular accident Death
+592707	27/07/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected FLUAD QUAD (Influenza virus haemagglutinin) - Not suspected	Cerebrovascular accident Deep vein thrombosis Electrocardiogram ST-T segment abnormal Fibrin D dimer increased Hyperhidrosis Musculoskeletal pain Presyncope Pulmonary embolism Troponin increased Death
+591215	23/07/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Myocardial infarction Death
+589841	21/07/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Acute kidney injury Adverse event following immunisation Anaemia Back pain Deep vein thrombosis Metastases to liver Pulmonary embolism Death
+583871	12/07/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Coronary artery disease Pallor Peripheral swelling Death
+583673	11/07/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Coma scale abnormal Oxygen saturation Somnolence Death
+575293	25/06/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+572390	21/06/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Mesenteric artery thrombosis Peripheral ischaemia Death
+569819	17/06/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite Fatigue Death
+569816	17/06/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Confusional state Decreased appetite Fatigue Pneumonia aspiration Death
+568816	15/06/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+566222	9/06/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Concomitant disease aggravated Death
+565717	9/06/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Thrombosis Death
+564420	7/06/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Disease progression Death
+563526	4/06/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Appendicitis Peritonitis Death
+563423	4/06/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Adverse event following immunisation Death
+563420	4/06/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Confusional state Delirium Pulmonary embolism Urinary tract infection Death
+563271	3/06/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aneurysm Headache Death
+563009	3/06/2021	-	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	Cerebral infarction Death
+562980	3/06/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Aortic aneurysm Death
+559992	28/05/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Abdominal pain Abdominal rigidity Abdominal tenderness Acidosis Blood pressure decreased Coma scale abnormal General physical health deterioration Haemodynamic instability Hypophagia Hypotension Hypothermia Malaise Peripheral circulatory failure Peripheral coldness Death
+553220	14/05/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cerebrovascular accident Death
+552876	14/05/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Dyspnoea Death
+551345	12/05/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+550219	10/05/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Cerebral infarction Myocardial ischaemia Death
+547782	4/05/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dyspnoea Pyrexia Death
+547142	4/05/2021	-	F	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Cardiac arrest Chest pain Fatigue Death
+544400	28/04/2021	-	M	COVID-19 Vaccine AstraZeneca (ChAdOx1-S (Viral vector)) - Suspected	Deep vein thrombosis Dyspnoea Pulmonary embolism Death
+541389	21/04/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite Dysphagia Death
+539580	18/04/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Adverse event following immunisation Death
+527894	28/03/2021	-	M	COVID-19 Vaccine (TNS) (COVID-19 Vaccine (Type not specified)) - Suspected	General physical health deterioration Death
+527357	26/03/2021	-	M	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Pneumonia Death
+521644	5/03/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Dysphagia Injection site reaction Somnolence Weight decreased Death
+521302	4/03/2021	-	F	COMIRNATY COVID-19 vaccine (tozinameran) - Suspected	Decreased appetite Depressed level of consciousness Dysphagia Vomiting Death
